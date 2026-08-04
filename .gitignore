@@ -1,0 +1,11 @@
+# R environment / session files - .Renviron holds your Airtable API key
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS folder metadata
+.DS_Store
+
+# generic env files, in case you ever add one
+*.env
