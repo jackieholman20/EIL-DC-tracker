@@ -1,5 +1,7 @@
 name: Update Case Data
 
+permissions:
+     contents: write
 on:
   schedule:
     - cron: "0 12 * * *"   # daily at 12:00 UTC - adjust as needed
