@@ -22,7 +22,7 @@ jobs:
       - name: Generate cases_data.json from Airtable
         env:
           AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
-        run: Rscript generate_cases_data.R
+        run: Rscript airtable_pipeline.r
 
       - name: Commit updated data if changed
         run: |
