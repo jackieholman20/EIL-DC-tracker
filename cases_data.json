@@ -479,6 +479,25 @@
     "documents": []
   },
   {
+    "id": "atlas-industrial-contractors-llc-v-in2gro-technologies-llc",
+    "shortName": "Atlas Industrial Contractors LLC v. In2Gro Technologies LLC",
+    "citation": "Atlas Industrial Contractors LLC v. In2Gro Technologies LLC",
+    "docket": "2:19-cv-02705",
+    "filingDisplay": "6/26/2019",
+    "yearFiled": "2019",
+    "location": "Ohio",
+    "forum": "United States District Court for the Southern District of Ohio",
+    "forumType": "",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "Yes",
+    "corporateEntities": "Amazon",
+    "category": "Common Law: Contract Disputes Among Developers",
+    "docketLink": "https://www.courtlistener.com/docket/15838281/atlas-industrial-contractors-llc-v-in2gro-technologies-llc/",
+    "status": "Closed",
+    "summary": "",
+    "documents": []
+  },
+  {
     "id": "maryland-office-of-people-s-counsel-v-pjm-interconnection-ll",
     "shortName": "Maryland Office of People's Counsel v. PJM Interconnection, LLC",
     "citation": "Maryland Office of People’s Counsel v. PJM Interconnection, LLC",
@@ -876,6 +895,25 @@
     "category": "Land Use Planning and Zoning: Substantive Planning Decisions",
     "docketLink": "https://publicaccess.courts.state.mn.us/CaseSearch",
     "status": "Closed",
+    "summary": "",
+    "documents": []
+  },
+  {
+    "id": "ostergaard-et-al-v-microsoft-corporation",
+    "shortName": "Ostergaard et al v. Microsoft Corporation",
+    "citation": "Ostergaard et al v. Microsoft Corporation",
+    "docket": "26-CV-1169",
+    "filingDisplay": "7/1/2026",
+    "yearFiled": "2026",
+    "location": "Wisconsin",
+    "forum": "United States District Court for the Eastern District of Wisconsin",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "Microsoft",
+    "category": "Common Law: Property",
+    "docketLink": "https://www.wied.uscourts.gov/ostergaard-et-al-v-microsoft-corporation",
+    "status": "",
     "summary": "",
     "documents": []
   },
@@ -1545,7 +1583,7 @@
     "category": "Land Use Planning and Zoning: Substantive Planning Decisions",
     "docketLink": "https://eapps.courts.state.va.us/CJISWeb/circuit.jsp",
     "status": "Open",
-    "summary": "",
+    "summary": "\n",
     "documents": []
   },
   {
@@ -1608,6 +1646,25 @@
     "corporateEntities": "Imperial Valley Computer Manufacturing, LLC",
     "category": "Information/Records Requests/Elections and Ballot Measures",
     "docketLink": "https://imperialcourt.org/WebCaseSearch/",
+    "status": "Closed",
+    "summary": "",
+    "documents": []
+  },
+  {
+    "id": "matter-of-sierra-club-v-city-of-n-tonawanda",
+    "shortName": "Matter of Sierra Club v City of N. Tonawanda",
+    "citation": "Matter of Sierra Club v City of N. Tonawanda",
+    "docket": "439 CA 22-00953",
+    "filingDisplay": "6/9/2023",
+    "yearFiled": "2023",
+    "location": "New York",
+    "forum": "New York State Supreme Court",
+    "forumType": "State",
+    "caseLevel": "Supreme",
+    "developerPlaintiff": "No",
+    "corporateEntities": "Crytopcurrency",
+    "category": "Environmental Law: Adequacy of Environmental Review ",
+    "docketLink": "https://law.justia.com/cases/new-york/appellate-division-fourth-department/2023/439-ca-22-00953.html",
     "status": "Closed",
     "summary": "",
     "documents": []
@@ -2457,6 +2514,25 @@
     "documents": []
   },
   {
+    "id": "blackboard-inc-v-international-business-machines-corporation",
+    "shortName": "Blackboard Inc. v. International Business Machines Corporation",
+    "citation": "Blackboard Inc. v. International Business Machines Corporation",
+    "docket": "1:21-cv-07165",
+    "filingDisplay": "8/25/2021",
+    "yearFiled": "2021",
+    "location": "New York",
+    "forum": "United States District Court for the Southern District of New York",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "",
+    "corporateEntities": "Blackboard, IBM",
+    "category": "Arbitration",
+    "docketLink": "https://www.courtlistener.com/docket/60507585/blackboard-inc-v-international-business-machines-corporation/",
+    "status": "Closed",
+    "summary": "",
+    "documents": []
+  },
+  {
     "id": "haas-cynthia-v-goochland-county-of",
     "shortName": "Haas v. Goochland Cnty.",
     "citation": "Haas, Cynthia v. Goochland County Of",
@@ -2765,6 +2841,25 @@
     ]
   },
   {
+    "id": "columbia-riverkeeper-s-request-for-rehearing-of-order-issuin",
+    "shortName": "Columbia Riverkeeper v. FERC",
+    "citation": "Columbia Riverkeeper’s request for rehearing of order issuing original license and request for stay",
+    "docket": "26-3332",
+    "filingDisplay": "5/26/2026",
+    "yearFiled": "2026",
+    "location": "",
+    "forum": "United States Court of Appeals for the Ninth Circuit",
+    "forumType": "",
+    "caseLevel": "Appellate",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Environmental Law: Adequacy of Environmental Review ",
+    "docketLink": "https://www.columbiariverkeeper.org/wp-content/uploads/2026/05/Columbia-Riverkeepers-Petition-for-Review-under-P-14861-002.pdf",
+    "status": "Open",
+    "summary": "",
+    "documents": []
+  },
+  {
     "id": "citizens-for-fauquier-county-v-town-of-warrenton-virginia-et",
     "shortName": "Citizens for Faquier Cnty. v. Town of Warrenton",
     "citation": "Citizens for Fauquier County v. Town of Warrenton, Virginia, et al",
@@ -2780,6 +2875,25 @@
     "category": "Land Use Planning and Zoning: Substantive Planning Decisions",
     "docketLink": "https://eapps.courts.state.va.us/gdcourts/landing.do?landing=landing",
     "status": "Appealed",
+    "summary": "",
+    "documents": []
+  },
+  {
+    "id": "underwood-family-farm-llc-et-al-v-prince-william-county",
+    "shortName": "Underwood Family Farm, LLC et al., v. Prince William County",
+    "citation": "Underwood Family Farm, LLC et al., v. Prince William County",
+    "docket": "CL24005849-00",
+    "filingDisplay": "7/3/2024",
+    "yearFiled": "2024",
+    "location": "Virginia",
+    "forum": "Prince William County Circuit Court",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "",
+    "corporateEntities": "\"Digital Gateway\" Compass and QTS",
+    "category": "\"Corporate Tax, Securities and Lobbying: Tax\"",
+    "docketLink": "https://eapps.courts.state.va.us/CJISWeb/CaseDetail.do",
+    "status": "",
     "summary": "",
     "documents": []
   },
@@ -3064,6 +3178,25 @@
     "documents": []
   },
   {
+    "id": "travelers-property-casualty-company-of-america-v-rosendin-el",
+    "shortName": "Travelers Property Casualty Company of America v. Rosendin Electric Incorporated",
+    "citation": "Travelers Property Casualty Company of America v. Rosendin Electric Incorporated",
+    "docket": "2:20-cv-00130",
+    "filingDisplay": "1/16/2020",
+    "yearFiled": "2020",
+    "location": "Arizona",
+    "forum": "United States District Court for the District of Arizona",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "Rosendin Electric, Aligned Data Centers",
+    "category": "Common Law: Contract Disputes Among Developers",
+    "docketLink": "https://www.courtlistener.com/docket/16716532/travelers-property-casualty-company-of-america-v-rosendin-electric/",
+    "status": "Closed",
+    "summary": "",
+    "documents": []
+  },
+  {
     "id": "1778-rich-pike-llc-vs-clifton-twp-pa-zoning",
     "shortName": "1778 Rich Pike LLC v. Clifton Twp. Zoning",
     "citation": "1778 Rich Pike LLC vs. Clifton Twp Pa Zoning",
@@ -3079,7 +3212,7 @@
     "category": "Land Use Planning and Zoning: Substantive Planning Decisions",
     "docketLink": "N/A",
     "status": "Open",
-    "summary": "",
+    "summary": "1778 Rich Pike LLC appealed the Clifton Township Zoning Hearing Board's November 19, 2025 decision to the Lackawanna County Court of Common Pleas. The Board had denied the developer's substantive validity challenge to the township's zoning ordinance, which the developer argued excluded data center uses. The appeal contends that data center uses are legitimate land uses entitled to zoning accommodation under state law, that the ordinance fails to define or classify data center uses and is therefore exclusionary, that the ordinance lacks any comparable use to which data centers could be analogized, and that it provides no reasonable path to approval by special exception.\n\n_This summary was AI-generated and reviewed by a member of our team._\n\n**Sources:**\n- Land-use appeal, _1778 Rich Pike LLC v. Clifton Twp. Zoning Hearing Bd._, No. 2025-CV-09492 (Lackawanna Cnty. C.P. filed Dec. 1, 2025) — primary filing not accessible; date per news account sourced to the filing itself\n- Kat Bolus, _Data center developer files appeal against Clifton Twp. Zoning Board in Lackawanna County Court_, WVIA (Dec. 16, 2025), <https://www.wvia.org/news/local/2025-12-16/data-center-developer-files-appeal-against-clifton-twp-zoning-board-in-lackawanna-county-court>\n- _Clifton Twp. to consider settlement with data center developer_, Yahoo News, syndicating The Times-Tribune, <https://www.yahoo.com/news/articles/clifton-twp-consider-settlement-data-010300429.html>\n",
     "documents": []
   },
   {
@@ -3242,9 +3375,9 @@
     ]
   },
   {
-    "id": "generation-and-transmission-resources-in-connection-with-ser",
-    "shortName": "Generation & Transmission Resources in Connection with Service to a Single Customer for a",
-    "citation": "Generation and Transmission Resources in Connection with Service to a Single Customer for a",
+    "id": "appalachian-power-company-and-wheeling-power-company",
+    "shortName": "Appalachian Power Company and Wheeling Power Company",
+    "citation": "Appalachian Power Company and Wheeling Power Company",
     "docket": "24-0611-E-T-PW",
     "filingDisplay": "7/18/2024",
     "yearFiled": "2024",
@@ -3501,13 +3634,13 @@
     "category": "Energy Law: State PUC",
     "docketLink": "https://apps.puc.state.or.us/edockets/docket.asp?DocketID=24818",
     "status": "Open",
-    "summary": "",
+    "summary": "Amazon Data Services, Inc. (\"ADS\") filed a complaint against PacifiCorp, d/b/a Pacific Power, before the Public Utility Commission of Oregon under ORS 756.500, alleging that PacifiCorp failed to supply contracted electric service to four data center campuses ADS developed within PacifiCorp's exclusive retail service territory in Oregon. ADS pleads six claims for relief: violation of PacifiCorp's statutory service obligations under ORS 757.020, ORS 757.603, and Oregon's Territory Allocation Law (ORS 758.400–758.475); breach of the master electric service and facilities improvements agreements (\"MESAs\") governing the campuses ADS calls Specialized and Litespeed; breach of the preliminary study and procurement agreements for the Pivot and Gray campuses, which ADS contends obligated PacifiCorp to negotiate and enter MESAs on demand; and a contract-interpretation claim asserting that the MESAs do not authorize a 32.6 percent \"tax gross-up\" on capital contributions. ADS asks the Commission to order PacifiCorp to provide service under the existing agreements, to complete the contracting process for the remaining two campuses, and to find the gross-up charge unauthorized. In the alternative, ADS asks the Commission to find PacifiCorp unable or unwilling to serve and to remove the campuses from its exclusive service territory, initiating an investigation into transfer of the territory to another provider.\n\n_This summary was AI-generated and reviewed by a member of our team._\n\n**Sources:**\n-Complaint, Amazon Data Services, Inc. v. PacifiCorp, d/b/a Pacific Power, No. UM 2410 (Or. Pub. Util. Comm'n filed Oct. 30, 2025), https://edocs.puc.state.or.us/efdocs/HAA/um2410haa341355036.pdf\n-Docket No. UM 2410, Amazon Data Services Inc. vs. PacifiCorp dba Pacific Power, Or. Pub. Util. Comm'n eDockets, https://apps.puc.state.or.us/edockets/docket.asp?DocketID=24818\n-Amazon files complaint with PUC, alleging Pacific Power has not met its obligations, Elkhorn Media Group (Nov. 2025), https://elkhornmediagroup.com/amazon-files-complain-with-puc-alleging-pacific-power-has-not-met-its-obligations/\n-\"Failure to deliver\": Amazon says PacifiCorp is leaving its data centers short on power, KOIN 6 News (Nov. 2025), https://www.koin.com/news/oregon/failure-to-deliver-amazon-says-pacificorp-is-leaving-its-data-centers-short-on-power/\n",
     "documents": [
       {
         "title": "Complaint",
         "filingDisplay": "October 30, 2025",
         "link": "https://edocs.puc.state.or.us/efdocs/HAA/um2410haa341355036.pdf",
-        "description": ""
+        "description": "Amazon Data Services alleges PacifiCorp failed to deliver contracted power to four Oregon data center campuses and improperly demanded a 32.6 percent tax gross-up, and asks the Commission to compel service or remove the sites from PacifiCorp's exclusive service territory."
       }
     ]
   },
@@ -3564,6 +3697,25 @@
     "corporateEntities": "Imperial Valley Computer Manufacturing, LLC",
     "category": "Land Use Planning and Zoning: Substantive Planning Decisions",
     "docketLink": "https://imperialcourt.org/WebCaseSearch/",
+    "status": "Open",
+    "summary": "",
+    "documents": []
+  },
+  {
+    "id": "state-of-california-v-wright",
+    "shortName": "State of California v. Wright",
+    "citation": "State of California v. Wright",
+    "docket": "3:26-cv-01417",
+    "filingDisplay": "2/18/2026",
+    "yearFiled": "2026",
+    "location": "California",
+    "forum": "United States District Court for the Northern District of California",
+    "forumType": "Federal",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "Atlas Argo Data Center",
+    "category": "Constitutional Law: Separation of Powers",
+    "docketLink": "https://www.courtlistener.com/docket/72294336/state-of-california-v-wright/",
     "status": "Open",
     "summary": "",
     "documents": []
