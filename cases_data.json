@@ -389,25 +389,6 @@
     "documents": []
   },
   {
-    "id": "andrew-frank-v-coshocton-county-port-authority",
-    "shortName": "Andrew Frank v. Coshocton County Port Authority",
-    "citation": "Andrew Frank v. Coshocton County Port Authority",
-    "docket": "2026-00623PQ",
-    "filingDisplay": "6/30/2026",
-    "yearFiled": "2026",
-    "location": "",
-    "forum": "",
-    "forumType": "",
-    "caseLevel": "Trial",
-    "developerPlaintiff": "No",
-    "corporateEntities": "",
-    "category": "",
-    "docketLink": "https://portal-ohcoc.tylertech.cloud/Portal/Home/WorkspaceMode?p=0",
-    "status": "Open",
-    "summary": "",
-    "documents": []
-  },
-  {
     "id": "in-the-matter-of-public-utility-commission-of-oregon-investi",
     "shortName": "In re Public Utility Comm'n of Oregon (Investigation into Marginal Cost Study Treatment)",
     "citation": "In the Matter of Public Utility Commission of Oregon, Investigation into Marginal Cost Study Treatment of Costs for Large Customers and Further Modifications to Portland General Electric Company's Rule C and Rule I",
@@ -646,25 +627,6 @@
     "category": "",
     "docketLink": "https://www.courts.mo.gov/casenet/cases/newHeader.do?inputVO.caseNumber=26SL-CC03024&inputVO.courtId=CT21",
     "status": "Open",
-    "summary": "",
-    "documents": []
-  },
-  {
-    "id": "american-heavy-plate-solutions-v-monroe-cty-port-auth-bitdee",
-    "shortName": "American Heavy Plate Solutions v. Monroe Cnty. Port Authority",
-    "citation": "American Heavy Plate Solutions v. Monroe Cty. Port Auth, Bitdeer, Inc.",
-    "docket": "CVH2026-026",
-    "filingDisplay": "1/28/2026",
-    "yearFiled": "2026",
-    "location": "",
-    "forum": "",
-    "forumType": "",
-    "caseLevel": "Trial",
-    "developerPlaintiff": "Yes",
-    "corporateEntities": "",
-    "category": "",
-    "docketLink": "https://access.monroecountyohio.com/recordSearch.php?k=searchForm5699",
-    "status": "",
     "summary": "",
     "documents": []
   },
@@ -1588,7 +1550,7 @@
     "category": "",
     "docketLink": "https://tobyhannatownshippa.gov/wp-content/uploads/2026/02/Public-Notice.pdf",
     "status": "Open",
-    "summary": "",
+    "summary": "Mark and Joan Lippi and several other individuals and a residents' association appealed Tobyhanna Township's December 15, 2025 enactment of Ordinance No. 580, which created a data center overlay district permitting data center use on roughly 520 acres of rural residential land tied to a project by Pennsylvania Glacial Till, LLC. Applicants argue the ordinance constitutes unlawful spot zoning enacted for the exclusive benefit of a single landowner, contradicts the purpose of the township's rural residential zoning district, and is arbitrary and unrelated to public health, safety, or welfare. They ask the Zoning Hearing Board to invalidate the ordinance as unlawful under Pennsylvania municipal zoning law.\n",
     "documents": []
   },
   {
@@ -1774,25 +1736,6 @@
     "docketLink": "https://starw1.ncuc.gov/NCUC/PSC/DocketDetails.aspx?DocketId=915c49dd-c48c-407d-b3d2-2e1244d2d95d https://starw1.ncuc.gov/NCUC/PSC/DocketDetails.aspx?DocketId=4e31ffc2-9a3d-44a2-b7c6-1b2cdb314feb",
     "status": "Open",
     "summary": "",
-    "documents": []
-  },
-  {
-    "id": "amazon-data-services-inc-v-board-of-supervisors-of-king-city",
-    "shortName": "Amazon Data Services Inc. v. Bd. of Supervisors of King City",
-    "citation": "Amazon Data Services Inc. v. Board Of Supervisors of King City",
-    "docket": "CL25000315-00 ",
-    "filingDisplay": "4/24/2025",
-    "yearFiled": "2025",
-    "location": "",
-    "forum": "",
-    "forumType": "State",
-    "caseLevel": "Trial",
-    "developerPlaintiff": "Yes",
-    "corporateEntities": "Amazon",
-    "category": "",
-    "docketLink": "https://eapps.courts.state.va.us/CJISWeb/circuit.jsp",
-    "status": "Open",
-    "summary": "\n",
     "documents": []
   },
   {
@@ -2928,7 +2871,7 @@
     "category": "",
     "docketLink": "https://apps.psc.wi.gov/ERF/ERFsearch/content/searchResult.aspx?UTIL=6680&CASE=TE&SEQ=115&START=none&END=none&TYPE=none&SERVICE=none&KEY=none&NON=N",
     "status": "Closed",
-    "summary": "",
+    "summary": "This is a regulatory tariff proceeding rather than adversarial litigation. Alliant Energy (operating as Wisconsin Power and Light Company) applied to the Wisconsin Public Service Commission in April 2025 for approval of an Electric Service Agreement to serve a Meta data center in Beaver Dam, Wisconsin, under the utility's existing Individual Contract Rate tariff. Following a public comment period — extended after the Commission's administrative law judge ordered Alliant to refile the application with fewer redactions — the Commission approved a modified agreement on May 7, 2026, that strengthened termination-charge protections for existing customers, added reporting and financial-safeguard requirements, required the data center customer to contribute to state energy-efficiency programs, and directed Alliant to file a separate standardized large-load tariff for future data center customers.\n",
     "documents": [
       {
         "title": "Final Decision",
@@ -3259,25 +3202,6 @@
     "documents": []
   },
   {
-    "id": "1000-friends-of-oregon-kipperlyn-sinclair-jacob-roloff-tammy",
-    "shortName": "1000 Friends of Oregon v. Dias",
-    "citation": "1000 Friends of Oregon, Kipperlyn Sinclair, Jacob Roloff, Tammy Carpenter, Aaron Nicholsetal. vs Dan Dias, Robby Hammond, City of Hillsboro, Eric Olson, Washington County",
-    "docket": "26CV30954",
-    "filingDisplay": "6/22/2026",
-    "yearFiled": "2026",
-    "location": "",
-    "forum": "",
-    "forumType": "",
-    "caseLevel": "Trial",
-    "developerPlaintiff": "No",
-    "corporateEntities": "",
-    "category": "",
-    "docketLink": "N/A",
-    "status": "Open",
-    "summary": "",
-    "documents": []
-  },
-  {
     "id": "digital-60-80-merritt-llc-v-bd-of-assessment-appeals",
     "shortName": "Digital 60 & 80 Merritt, LLC v. Bd. of Assessment Appeals",
     "citation": "Digital 60 & 80 Merritt, LLC v. Bd. of Assessment Appeals",
@@ -3402,7 +3326,7 @@
     "category": "",
     "docketLink": "https://public.courts.in.gov/mycase/#/vw/CaseSummary/eyJ2Ijp7IkNhc2VUb2tlbiI6Im9WTkNBRU5PSXFldHVMXy1iWmFOMzJNclpyVkMzLUpwZWQya1gyWHZoMkUxIn19",
     "status": "Open",
-    "summary": "",
+    "summary": "Angelita Soriano and several other Hobart, Indiana residents sued the City of Hobart Plan Commission and the Hobart Common Council in Lake Superior Court, alleging the city violated their due process rights under the U.S. and Indiana constitutions when it rezoned roughly 725 acres of residential land to light-industrial use to accommodate a proposed Amazon data center. Plaintiffs contend the city's actions — including limiting public comment until after votes were taken — were \"arbitrary, capricious,\" and unsupported by substantial evidence, and argue the project will diminish their property values and use and enjoyment of their homes. The suit asks the court to vacate the challenged rezoning resolutions and related land-transfer actions.\n",
     "documents": []
   },
   {
@@ -3808,7 +3732,7 @@
     "category": "",
     "docketLink": "https://www.psc.state.wv.us/scripts/orders/ViewDocument.cfm?CaseActivityID=634511&Source=Docket",
     "status": "Open",
-    "summary": "",
+    "summary": "This is a regulatory rate proceeding, not adversarial litigation: Appalachian Power Company and Wheeling Power Company applied to the West Virginia Public Service Commission to establish tariff terms for \"large-load\" customers such as data centers, with Google participating as an intervenor. After negotiation, Appalachian Power, Google, and a group representing West Virginia manufacturers reached a settlement — later subject to Commission approval — setting minimum contract terms for large-load customers, including a 100 MW minimum capacity per site, a minimum 12-year initial contract term, and a requirement to commit to purchasing at least 80% of expected power consumption.\n",
     "documents": [
       {
         "title": "Application",
@@ -3928,25 +3852,6 @@
     "documents": []
   },
   {
-    "id": "aligned-data-centers-phoenix-llc-v-d-p-r-construction",
-    "shortName": "Aligned Data Centers Phoenix LLC v. DPR Construction",
-    "citation": "Aligned Data Centers Phoenix LLC v. D P R Construction",
-    "docket": "CV2019-015648",
-    "filingDisplay": "12/23/2019",
-    "yearFiled": "2019",
-    "location": "",
-    "forum": "",
-    "forumType": "State",
-    "caseLevel": "Trial",
-    "developerPlaintiff": "Yes",
-    "corporateEntities": "Aligned Data Centers",
-    "category": "",
-    "docketLink": "https://www.superiorcourt.maricopa.gov/docket/CivilCourtCases/caseInfo.asp?caseNumber=CV2019-015648",
-    "status": "Closed",
-    "summary": "",
-    "documents": []
-  },
-  {
     "id": "people-of-the-state-of-michigan-v-doe",
     "shortName": "People v. DOE",
     "citation": "People of the State of Michigan v. DOE",
@@ -4054,32 +3959,6 @@
     "status": "Open",
     "summary": "",
     "documents": []
-  },
-  {
-    "id": "amazon-data-services-inc-vs-pacificorp-d-b-a-pacific-power",
-    "shortName": "Amazon Data Services, Inc. v. PacifiCorp",
-    "citation": "Amazon Data Services, Inc. vs PacifiCorp, d/b/a Pacific Power,",
-    "docket": "UM 2410",
-    "filingDisplay": "10/30/2025",
-    "yearFiled": "2025",
-    "location": "",
-    "forum": "",
-    "forumType": "",
-    "caseLevel": "Regulatory Commission",
-    "developerPlaintiff": "Yes",
-    "corporateEntities": "Amazon",
-    "category": "",
-    "docketLink": "https://apps.puc.state.or.us/edockets/docket.asp?DocketID=24818",
-    "status": "Open",
-    "summary": "\n",
-    "documents": [
-      {
-        "title": "Complaint",
-        "filingDisplay": "October 30, 2025",
-        "link": "https://edocs.puc.state.or.us/efdocs/HAA/um2410haa341355036.pdf",
-        "description": "Amazon Data Services alleges PacifiCorp failed to deliver contracted power to four Oregon data center campuses and improperly demanded a 32.6 percent tax gross-up, and asks the Commission to compel service or remove the sites from PacifiCorp's exclusive service territory."
-      }
-    ]
   },
   {
     "id": "we-are-mason-county-ky-inc-v-mason-county",
