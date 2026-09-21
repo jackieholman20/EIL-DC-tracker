@@ -34,7 +34,7 @@
     "category": "",
     "docketLink": "https://caselookup.nmcourts.gov/caselookup/",
     "status": "Open",
-    "summary": "",
+    "summary": "The New Mexico Environmental Law Center (NMELC) filed a separate, later lawsuit against the Doña Ana County Board of County Commissioners over its approval of the \"Project Jupiter\" data center campus, alleging the county's vote violated New Mexico's Open Meetings Act. This case is distinct from the earlier Pacheco v. Board of County Commissioners suit (summarized in an earlier batch) and from a related bond-approval challenge; together, the several Project Jupiter suits reflect overlapping but legally separate claims — Open Meetings Act violations, incomplete-application concerns, and premature approval ahead of Planning and Zoning Commission review — brought by different plaintiffs against the same underlying county approvals for the data center, which is projected to have greenhouse gas emissions rivaling some of New Mexico's largest cities.\n",
     "documents": []
   },
   {
@@ -79,7 +79,7 @@
     "category": "",
     "docketLink": "https://www.courtlistener.com/docket/73188848/national-association-for-the-advancement-of-colored-people-v-xai-corp/",
     "status": "Open",
-    "summary": "",
+    "summary": "The NAACP, represented by the Southern Environmental Law Center and Earthjustice on behalf of its national organization and Mississippi State Conference, sued xAI and its subsidiary MZX Tech, alleging the companies are illegally operating 27 methane gas turbines without a required Clean Air Act permit to power the \"Colossus 2\" data center campus in Southaven, Mississippi (which runs xAI's Grok chatbot). The suit alleges the unpermitted power plant — located near homes, schools, and churches — has the potential to emit more than 1,700 tons of smog-forming nitrogen oxides annually (potentially the largest industrial NOx source in the Memphis area, which already fails federal smog standards), along with particulate matter, carbon monoxide, and the carcinogen formaldehyde, and follows a required 60-day notice of intent to sue that xAI allegedly ignored. The NAACP asks the court to declare the Clean Air Act violated, order xAI to stop operating the unpermitted turbines, require installation of the best available emissions-control technology, and impose daily financial penalties for each day of the violation.\n",
     "documents": []
   },
   {
@@ -264,7 +264,7 @@
     "category": "",
     "docketLink": "https://mncourts.gov/access-case-records/mcro",
     "status": "",
-    "summary": "",
+    "summary": "MCEA sued the City of Pine Island and developer Ryan Companies over the city's approval of an Alternative Urban Areawide Review for the 482-acre \"Project Skyway\" development, which MCEA alleges would include at least 100 acres — and potentially up to 3 million square feet — of data centers. MCEA contends the AUAR lacked basic details about the project's water use (the review itself estimated up to 55.7 million gallons annually, roughly half the entire city's current usage) and electricity demand (which MCEA says could be up to 100 times the city's current consumption), and asks the court to pause the project pending a more thorough review. The two docket numbers reflect the case's initial filing (Oct. 16, 2025) and a later, related proceeding (Feb. 19, 2026) in the same matter.\n",
     "documents": []
   },
   {
@@ -729,7 +729,7 @@
     "category": "",
     "docketLink": "https://www.courtlistener.com/docket/65751613/navigators-specialty-insurance-company-v-svo-building-one-llc/",
     "status": "Closed",
-    "summary": "",
+    "summary": "Navigators Specialty Insurance Company sued its policyholder, SVO Building One (a Sacramento data center design firm), seeking reimbursement of more than $5 million in defense costs Navigators had paid defending SVO against a breach-of-contract lawsuit brought by equipment manufacturer Vertiv over a 2017 data center design contract. Navigators argued it only had a duty to defend a defamation claim within that underlying suit, and that once Vertiv dropped the defamation count in 2021, Navigators' defense obligation and any right to reimbursement for costs \"solely allocable\" to non-covered claims should apply; SVO countered that other surviving claims in Vertiv's complaint still contained factual allegations of disparagement sufficient to keep the broader duty to defend alive. On April 30, 2026, the court ruled largely in SVO's favor, finding Navigators had not met its burden to show the defense costs were solely allocable to uncovered claims, and allowed SVO's own breach-of-contract and unfair-competition counterclaims against Navigators to proceed.\n",
     "documents": []
   },
   {
@@ -1180,7 +1180,7 @@
     "category": "",
     "docketLink": "https://texasscorecard.com/wp-content/uploads/2026/07/Verified-Original-Petition-and-Application-for-TRO_AAE0079F.pdf",
     "status": "Appealed",
-    "summary": "",
+    "summary": "National CRE Holdings (an affiliate of Starwood Capital Group) and Greenland Capital LLC (owner of MARA Holdings) sued Hood County, arguing that the county's failure to approve or reject their proposed \"Project Red\" and \"Project Yellow\" data center concept plans within 30 days meant the projects were automatically approved under the Texas Local Government Code's \"shot clock\" provision. The county countered that the 30-day deadline never applied because the submitted materials did not meet the statutory definition of \"development plans\" requiring formal review. On July 20, 2026, Judge Bryan Bufkin dismissed the developers' lawsuit and ruled it could not be refiled in its current form, preserving the county's ability to review the projects' impacts on local water resources and infrastructure before construction; the developers have filed a notice of appeal to the Second Court of Appeals.\n",
     "documents": []
   },
   {
@@ -1332,7 +1332,7 @@
     "category": "",
     "docketLink": "https://mncourts.gov/access-case-records/mcro",
     "status": "",
-    "summary": "",
+    "summary": "The Minnesota Center for Environmental Advocacy (MCEA) sued the City of Lakeville and developer Olam Holdings 1, LLC, alleging the city's Alternative Urban Areawide Review (AUAR) — accepted by the city council on July 7, 2025 for the Olam Holdings property — failed to describe or study the environmental impacts of what MCEA believes is a large-scale data center project, since the review documents never used the term \"data center\" or provided a project description sufficient to allow meaningful public input. This was one of two suits MCEA filed the same week (the other against North Mankato), asking courts to halt the projects until more thorough environmental review — potentially including a full Environmental Impact Statement — is completed; MCEA argues data centers can consume as much electricity as every home in Minnesota combined if all currently proposed facilities are built.\n",
     "documents": []
   },
   {
@@ -1505,7 +1505,7 @@
     "category": "",
     "docketLink": "https://publicaccess.courts.state.mn.us/CaseSearch",
     "status": "Open",
-    "summary": "",
+    "summary": "MCEA sued the City of Pine Island and developer Ryan Companies over the city's approval of an Alternative Urban Areawide Review for the 482-acre \"Project Skyway\" development, which MCEA alleges would include at least 100 acres — and potentially up to 3 million square feet — of data centers. MCEA contends the AUAR lacked basic details about the project's water use (the review itself estimated up to 55.7 million gallons annually, roughly half the entire city's current usage) and electricity demand (which MCEA says could be up to 100 times the city's current consumption), and asks the court to pause the project pending a more thorough review. The two docket numbers reflect the case's initial filing (Oct. 16, 2025) and a later, related proceeding (Feb. 19, 2026) in the same matter.\n",
     "documents": []
   },
   {
@@ -2086,7 +2086,7 @@
     "category": "",
     "docketLink": "https://wwww.cosc.pima.gov/PublicDocs/",
     "status": "Appealed",
-    "summary": "",
+    "summary": "The No Desert Data Center Coalition sued Pima County and its Planning and Zoning Commission over the county's rezoning of nearly 300 acres for the proposed \"Project Blue\" data center (developed by Beale Infrastructure), alleging the county violated Arizona's Open Meeting Law and deceived the public by failing to disclose in its rezoning agenda that the land was specifically intended for a data center, rather than for a broader range of possible uses. The complaint further alleges county staff secretly negotiated the sale of the land for over $20.8 million to an undisclosed buyer between 2023 and 2025, and asked the court to invalidate the rezoning. On April 11, 2026, Pima County Superior Court Judge Brenden Griffin dismissed the lawsuit, finding the county's failure to disclose the rezoning's specific purpose in its public agenda did not violate the Open Meeting Law; the coalition has stated it plans to appeal.\n",
     "documents": []
   },
   {
@@ -2252,7 +2252,7 @@
     "category": "",
     "docketLink": "https://publicsearch.ndcourts.gov/default.aspx",
     "status": "",
-    "summary": "",
+    "summary": "After Williams County commissioners voted on June 20, 2023 to order Mountrail-Williams Electric Cooperative (MWEC) to cut power to a Bitcoin-mining data center under construction by AtlasPower/FX Solutions — citing the developer's failure to meet county compliance requirements after an earlier shutdown order had been appealed and upheld — MWEC refused to comply and instead sought a court determination on the proper legal process for disconnecting a member's service. MWEC, a member-owned electric cooperative, stated it took its obligation to serve members seriously and would not unilaterally cut power without judicial guidance on whether the county's order was itself lawful and enforceable against the utility.\n",
     "documents": []
   },
   {
@@ -2508,7 +2508,7 @@
     "category": "",
     "docketLink": "https://www.courtlistener.com/docket/73392643/montgomery-v-dataone-usa-llc/",
     "status": "Closed",
-    "summary": "",
+    "summary": "Two Vineland, New Jersey residents filed a putative class-action lawsuit against DataOne USA LLC, alleging that noise from DataOne's roughly 2.6-million-square-foot AI data center campus — including diesel generators, HVAC chillers, cooling towers, and condenser fans — constitutes a nuisance affecting approximately 1,000 residential properties within a mile of the facility. Plaintiffs, represented by Liddle Sheets, P.C. and Cohen & Riechelson, allege the persistent industrial noise (described by one plaintiff as sounding like \"a helicopter hovering\" or airport noise) has deprived residents of the use and enjoyment of their property and diminished property values; this was one of several similar noise-nuisance suits the same law firm filed against data centers nationwide the same week.\n",
     "documents": []
   },
   {
@@ -3198,7 +3198,7 @@
     "category": "",
     "docketLink": "https://casesearch.kscourts.gov/Home/CaseDetailPdf?caseId=17745303",
     "status": "",
-    "summary": "",
+    "summary": "Wyandotte County resident Neal Palmer and Haskell Farms LLC sued the Unified Government of Wyandotte County and Kansas City, Kansas, challenging its approval of zoning changes from residential to commercial use for a proposed $12 billion, six-building \"hyperscale\" data center campus by developer Red Wolf DCD Properties along Parallel Parkway. Plaintiffs allege the rezoning approvals contained \"numerous errors and insufficiencies\" that failed to comply with the Unified Government's municipal code, that the planning commission rushed its review without adequately studying short- and long-term impacts, and that a commissioner was improperly pressured to recuse himself from the hearings; they further allege the developer orchestrated an effort to have residents who had signed protest petitions withdraw their signatures to avoid a supermajority-approval requirement. On October 29, 2025, the court denied the Unified Government's motion to dismiss the claims regarding the south tract, while the claims about the north tract were allowed to proceed contingent on the commissioners reaching a \"final decision\" on that portion of the rezoning.\n",
     "documents": []
   },
   {
@@ -3345,7 +3345,7 @@
     "category": "",
     "docketLink": "https://www.courtlistener.com/docket/71294544/newson-pace-v-hitt-contracting-inc/",
     "status": "Closed",
-    "summary": "",
+    "summary": "Former safety managers Cheree Pace and Alton R. Matthews, along with other plaintiffs, sued general contractor HITT Contracting and related subcontractors over their termination from the QTS data center construction project in Fayetteville, Georgia, alleging wrongful termination, blacklisting, and retaliation for raising safety concerns. Plaintiffs allege that despite HITT and QTS's public \"culture of care\" messaging, qualified safety personnel were sidelined on site while undertrained supervisors were promoted, creating conditions plaintiffs say contributed to a June 2025 worker fatality; Pace alleges she was fired after being harassed and blamed for safety issues she tried to correct, while Matthews alleges he was terminated after requesting proof of operator certifications and that a fabricated harassment complaint was used against him. Defendants have sought to remove the case from Fayette County Superior Court to federal court, while plaintiffs — who state they have struggled to secure legal representation — have argued the retaliation and defamation claims are properly matters of Georgia state law.\n",
     "documents": []
   },
   {
@@ -3421,7 +3421,7 @@
     "category": "",
     "docketLink": "https://www.courtlistener.com/docket/72126277/ndnb-assurance-llp-v-giga-data-center-1-llc/",
     "status": "Closed",
-    "summary": "",
+    "summary": "\n",
     "documents": []
   },
   {
@@ -3687,7 +3687,7 @@
     "category": "",
     "docketLink": "https://elibrary.ferc.gov/eLibrary/docketsheet?docket_number=EC26-58-000&sub_docket=All&dt_from=1960-01-01&dt_to=2026-08-17&chklegadata=false&pageNm=dsearch&date_range=custom&search_type=docket&date_type=filed_date&sub_docket_q=Allsub&sid=56c86f6e-497b-4f07-a42e-a4dc40cc02fe",
     "status": "",
-    "summary": "",
+    "summary": "GenOn applied to FERC under Section 203 of the Federal Power Act for approval to sell its shuttered, roughly 1,260-megawatt Morgantown power plant in Maryland (four oil-fired units retired in 2022) to TeraWulf, a Bitcoin-mining company pivoting toward data centers. PJM's independent market monitor, Monitoring Analytics, urged FERC on March 4, 2026 to reject the deal, arguing that removing the Morgantown units from PJM's wholesale market to serve TeraWulf's planned data center load would be inconsistent with the public interest and would shift costs and risks to other PJM customers, particularly since the plant sits in a transmission-constrained zone. TeraWulf disputes this characterization, stating it intends to build roughly 500 MW of new gas generation and 250 MW of battery storage in each of two phases — positioning itself as a net electricity generator for the state rather than a net consumer — while consumer advocacy group Public Citizen has separately asked FERC to require TeraWulf to detail its plans for remediating legacy coal pollution at the site.\n",
     "documents": []
   },
   {
