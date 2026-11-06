@@ -2364,7 +2364,7 @@
     "corporateEntities": "Data Foundry, Inc. (data center provider)",
     "category": "Constitutional Law: Takings",
     "docketLink": "N/A",
-    "status": "Appealed",
+    "status": "Closed",
     "summary": "Data Foundry, Inc., an internet service provider operating data centers in Austin, sued the City of Austin over rates charged by Austin Energy, the city-owned electric utility, alleging the rates are unjust, unreasonable, excessive, confiscatory, discriminatory, and constitute a taking. The trial court dismissed Data Foundry's claims for lack of standing; the Fourteenth Court of Appeals held Data Foundry had standing but still affirmed dismissal of the claims on other grounds. On April 9, 2021, the Texas Supreme Court held that Data Foundry has standing as a ratepayer to challenge generally applicable municipal utility rates without needing to show an injury distinct from other ratepayers, reversed the courts below in part, and remanded the case to the trial court for further proceedings on the merits of the rate challenge.\n",
     "documents": [],
     "lawType": "Constitutional Law",
@@ -2975,31 +2975,6 @@
     "media": []
   },
   {
-    "id": "xockets-inc-v-amazon-com-inc-no-1-25-cv-01021-w-d-tex-filed-",
-    "shortName": "Xockets v. Amazon",
-    "citation": "Xockets, Inc. v. Amazon.com, Inc., No. 1:25-cv-01021 (W.D. Tex. filed June 30, 2025)",
-    "docket": "1:25-cv-01021",
-    "filingDisplay": "June 20, 2025",
-    "yearFiled": "2025",
-    "location": "Texas",
-    "forum": "United States District Court for the Western District of Texas",
-    "forumType": "Federal",
-    "caseLevel": "Trial",
-    "developerPlaintiff": "No",
-    "corporateEntities": "",
-    "category": "Corporate: IP",
-    "docketLink": "https://www.courtlistener.com/docket/70672176/parties/xockets-inc-v-amazoncom-inc/\n",
-    "status": "Open",
-    "summary": "",
-    "documents": [],
-    "lawType": "Statutory",
-    "secondaryCategory": "",
-    "lastUpdated": "September 25, 2026",
-    "media": [
-      "https://news.bloomberglaw.com/ip-law/amazon-accused-of-infringing-xockets-cloud-computing-patents"
-    ]
-  },
-  {
     "id": "mcea-and-stop-the-hermantown-data-center-v-city-of-hermantow",
     "shortName": "Stop the Hermantown Data Center v. City of Hermantown",
     "citation": "MCEA and Stop the Hermantown Data Center v. City of Hermantown and Harmony Group, LLC, No. 69DU-CV-25-3448 (St. Louis Co. Dist. Ct. filed Nov. 5, 2025)",
@@ -3188,7 +3163,7 @@
     "corporateEntities": "\"Digital Gateway\" Compass and QTS",
     "category": "Common Law: Contract Disputes Among Developers",
     "docketLink": "https://www.courtlistener.com/docket/63404307/gw-acquisition-co-llc-v-pageland-limited-liability-company/",
-    "status": "Appealed",
+    "status": "Closed",
     "summary": "GW Acquisition Co. (an affiliate of QTS Realty Trust) sued landowners Pageland Limited Liability Company and the Mitchell family for breach of contract, alleging they refused to honor purchase-and-sale agreements for roughly 175 acres that were part of GWA's larger, roughly 812-acre \"Digital Gateway\" data center assemblage in Prince William County, Virginia. GWA alleged the sellers wrongly refused to approve \"proffers\" needed for GWA's rezoning application and/or sought to terminate the agreements to obtain a higher price, jeopardizing the entire rezoning effort; GWA sought a preliminary injunction and damages, including recovery of legal costs it says it was owed from a related prior dispute with Pageland. The district court found GWA likely to succeed on the merits and that it would suffer irreparable harm without an injunction; Pageland appealed to the Fourth Circuit.\n",
     "documents": [
       {
@@ -3386,32 +3361,6 @@
       "https://www.11alive.com/article/news/local/coweta-county-data-center-project-lawsuit/85-c467e46a-e2c0-4deb-8066-51ed8e4cd596#:~:text=%22In%20making%20this%20Zoning%20Decision",
       "https://www.times-georgian.com/news/local/data-centers-still-stoking-local-anxiety/article_9ba950f8-e04a-5a04-b6de-8075fbee8639.html",
       "https://thecitizen.com/2026/05/11/coweta-residents-sue-to-block-project-sail-data-center/"
-    ]
-  },
-  {
-    "id": "land-legacy-inc-v-ringle-alan-j",
-    "shortName": "Land Legacy, Inc. v. Ringle",
-    "citation": "Land Legacy, Inc. v. Ringle, Alan J.",
-    "docket": "CJ-2026-00074",
-    "filingDisplay": "March 23, 2026",
-    "yearFiled": "2026",
-    "location": "Oklahoma",
-    "forum": "\"Oklahoma District Court, Osage County\"",
-    "forumType": "State",
-    "caseLevel": "Trial",
-    "developerPlaintiff": "No",
-    "corporateEntities": "Project Spring, Google",
-    "category": "Common Law: Property",
-    "docketLink": "https://www.oscn.net/dockets/GetCaseInformation.aspx?db=osage&number=CJ-2026-00074&cmid=12111048",
-    "status": "Open",
-    "summary": "Land Legacy, Inc., a conservation land trust, sued landowner Alan Ringle and his family, alleging that a 2013 conservation easement covering roughly 270 acres of a larger 800-plus-acre property near Sand Springs, Oklahoma — in exchange for which the Ringles reportedly received a $3.8 million tax deduction — permanently bars industrial development, including roads and buildings, on the land now proposed as the site for a large-scale Google data center (\"Project Spring\"). Land Legacy alleges the Ringle family knowingly proceeded with the data center plans in bad faith despite the restrictions, and that the easement was not disclosed during the project's rezoning application, which affirmatively denied the existence of any development restrictions on the property; the trust seeks to have the easement enforced and the rezoning process redone with its participation. The City of Sand Springs has stated it does not believe the lawsuit has merit or will affect the project's future.\n",
-    "documents": [],
-    "lawType": "Common Law",
-    "secondaryCategory": "",
-    "lastUpdated": "",
-    "media": [
-      "https://www.fox23.com/news/lawsuit-filed-over-proposed-google-data-center-site-near-sand-springs/article_04db1b2c-9c87-4b45-b5dd-548f7c9f8657.html",
-      "https://www.okenergytoday.com/2026/03/lawsuit-could-stop-a-data-center-near-sand-springs/"
     ]
   },
   {
@@ -4739,31 +4688,6 @@
     ]
   },
   {
-    "id": "oklo-inc-v-pjm-interconnection-l-l-c-docket-no-el26-101-000-",
-    "shortName": "Oklo Inc. v. PJM",
-    "citation": "Oklo Inc. v. PJM Interconnection, L.L.C., Docket No. EL26-101-000 (FERC Aug. 28, 2026).",
-    "docket": "EL26-101-000",
-    "filingDisplay": "August 28, 2026",
-    "yearFiled": "2026",
-    "location": "Virginia",
-    "forum": "Federal Energy Regulatory Commission",
-    "forumType": "Federal",
-    "caseLevel": "Regulatory Commission",
-    "developerPlaintiff": "No",
-    "corporateEntities": "",
-    "category": "Information/Records Requests/Elections and Ballot Measures",
-    "docketLink": "https://elibrary.ferc.gov/eLibrary/docketsheet?docket_number=EL26-101-000&sub_docket=All&dt_from=1960-01-01&dt_to=2026-09-23&chklegadata=false&pageNm=dsearch&date_range=custom&search_type=docket&date_type=filed_date&sub_docket_q=Allsub&sid=b5aa7149-2878-4989-b9c1-a791fe4168a2",
-    "status": "Closed",
-    "summary": "Oklo proposed a hybrid power plant consisting of a combination of advanced nuclear, fuel cells and gas generation to the PJM interconnection queue. PJM dropped the project from the current interconnection study cycle and Oklo petitioned FERC to undo PJM's decision. FERC's ruling sided with PJM because PJM followed its tariff and Oklo failed to remedy identified errors in its application. \n",
-    "documents": [],
-    "lawType": "Statutory",
-    "secondaryCategory": "",
-    "lastUpdated": "September 9, 2026",
-    "media": [
-      "https://www.utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357/"
-    ]
-  },
-  {
     "id": "gregory-guido-jr-v-columbia-county-board-of-commissioners",
     "shortName": "Guido v. Columbia Cnty. Bd. of Comm'rs",
     "citation": "Gregory Guido, Jr. v. Columbia County Board Of Commissioners",
@@ -4994,7 +4918,7 @@
     "corporateEntities": "",
     "category": "Energy Law: State PUC",
     "docketLink": "https://dms.psc.sc.gov/Web/Dockets/Detail/119739",
-    "status": "Open",
+    "status": "Appealed",
     "summary": "",
     "documents": [],
     "lawType": "Statutory",
@@ -5258,31 +5182,6 @@
     "lastUpdated": "September 30, 2026",
     "media": [
       "https://osagenews.org/a-proposed-data-center-in-sand-springs-hinges-on-the-osage-minerals-council/"
-    ]
-  },
-  {
-    "id": "application-of-duke-energy-for-a-certificate-of-public-conve",
-    "shortName": "Application of Duke Energy for a Certificate of Public Convenience and Necessity,",
-    "citation": "Application of Duke Energy for a Certificate of Public Convenience and Necessity, Docket No. E-2 Sub 1395 (N.C.U.C. Oct. 31, 2025).",
-    "docket": "E-2 Sub 1395",
-    "filingDisplay": "October 31, 2025",
-    "yearFiled": "2025",
-    "location": "North Carolina",
-    "forum": "North Carolina Utilities Commission",
-    "forumType": "State",
-    "caseLevel": "Regulatory Commission",
-    "developerPlaintiff": "No",
-    "corporateEntities": "",
-    "category": "Energy Law: RTOs, FERC, DOE",
-    "docketLink": "https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/DocketDetails.aspx?DocketId=a50b3305-2cc1-4247-a42a-88430d44c749",
-    "status": "Open",
-    "summary": "Duke proposed a 240 MW gas plant to the NC Utilities Commission in order to meet the demand from increased load growth and reliability. NCUC issued an order in response denying the certificate  of public convenience and necessity because the request was premature and insufficienct evidence was available. Duke is planning to appeal the orderl.\n",
-    "documents": [],
-    "lawType": "Statutory",
-    "secondaryCategory": "",
-    "lastUpdated": "September 25, 2026",
-    "media": [
-      "https://www.wral.com/news/state/duke-energy-gas-turbine-amazon-data-center-september-2026/"
     ]
   },
   {
@@ -5794,7 +5693,7 @@
     "corporateEntities": "Data Foundry, Inc. (data center provider)",
     "category": "Constitutional Law: Takings",
     "docketLink": "https://search.txcourts.gov/Case.aspx?cn=14-18-00071-CV&coa=coa14",
-    "status": "Appealed",
+    "status": "Closed",
     "summary": "Data Foundry, Inc., an internet service provider operating data centers in Austin, sued the City of Austin over rates charged by Austin Energy, the city-owned electric utility, alleging the rates are unjust, unreasonable, excessive, confiscatory, discriminatory, and constitute a taking. The trial court dismissed Data Foundry's claims for lack of standing; the Fourteenth Court of Appeals held Data Foundry had standing but still affirmed dismissal of the claims on other grounds. On April 9, 2021, the Texas Supreme Court held that Data Foundry has standing as a ratepayer to challenge generally applicable municipal utility rates without needing to show an injury distinct from other ratepayers, reversed the courts below in part, and remanded the case to the trial court for further proceedings on the merits of the rate challenge.\n",
     "documents": [
       {
@@ -6509,31 +6408,6 @@
     ]
   },
   {
-    "id": "state-ex-rel-mcnamara-smith-v-grube-fiscal-officer",
-    "shortName": "State ex rel. McNamara-Smith v. Grube, Fiscal Officer",
-    "citation": "State ex rel. McNamara-Smith v. Grube, Fiscal Officer",
-    "docket": "2026-0906",
-    "filingDisplay": "July 14, 2026",
-    "yearFiled": "2026",
-    "location": "Ohio",
-    "forum": "Supreme Court of Ohio",
-    "forumType": "State",
-    "caseLevel": "Supreme",
-    "developerPlaintiff": "No",
-    "corporateEntities": "",
-    "category": "Information/Records Requests/Elections and Ballot Measures",
-    "docketLink": "https://www.supremecourt.ohio.gov/clerk/ecms/#/caseinfo/2026/0906",
-    "status": "Closed",
-    "summary": "",
-    "documents": [],
-    "lawType": "Statutory",
-    "secondaryCategory": "",
-    "lastUpdated": "September 9, 2026",
-    "media": [
-      "https://ohiocapitaljournal.com/2026/08/14/ohio-supreme-court-allows-ashville-referendum-against-data-center-project-to-move-forward/"
-    ]
-  },
-  {
     "id": "soriano-v-city-of-hobart-plan-commission-no-45d11-2512-mi-00",
     "shortName": "Soriano v. City of Hobart Plan Comm'n",
     "citation": "Soriano v. City of Hobart Plan Commission, No. 45D11-2512-MI-000644 (Lake Super. Ct. filed Dec. 8, 2025).",
@@ -6726,7 +6600,7 @@
     "corporateEntities": "",
     "category": "Common Law: Contract Disputes Among Developers",
     "docketLink": "https://www.courtlistener.com/docket/46924584/bladeroom-group-limited-v-facebook-inc/",
-    "status": "Appealed",
+    "status": "Closed",
     "summary": "BladeRoom Group and an affiliate sued Facebook, Emerson Electric, and related Emerson entities in 2015, alleging that after BladeRoom pitched its modular data center design to Facebook under a non-disclosure agreement in 2011–2012, Facebook and Emerson conspired to misappropriate BladeRoom's trade secrets to build Facebook's Luleå, Sweden data center, and that Facebook then shared the design through the Open Compute Project without authorization. BladeRoom's claims included breach of the NDA, misappropriation of trade secrets, unjust enrichment, and unfair competition, and it originally sought roughly $365 million in damages. Facebook settled with BladeRoom during trial for a reported $365 million; the case proceeded to a jury verdict against Emerson alone, which found willful and malicious trade secret misappropriation and breach of contract and awarded roughly $30 million in compensatory damages (later increased with exemplary damages and prejudgment interest to over $77 million) — a judgment the Ninth Circuit later vacated in part on appeal, remanding for further proceedings regarding the NDA's expiration date.\n",
     "documents": [],
     "lawType": "Common Law",
@@ -6823,7 +6697,7 @@
     "caseLevel": "Supreme",
     "developerPlaintiff": "No",
     "corporateEntities": "",
-    "category": "Land Use Planning and Zoning: Substantive Planning Decisions",
+    "category": "Information/Records Requests/Elections and Ballot Measures",
     "docketLink": "https://www.supremecourt.ohio.gov/clerk/ecms/#/caseinfo/2026/0906",
     "status": "Closed",
     "summary": "In April 2026, the Ashville, OH Village Council issued a resolution approving a development and supply commitment with EdgeConnex for a data center using emergency powers. Residents of the resolution created a referendum opposing the decision and obtained enough signatures to submit it to the fiscal officer who declined to add it to the ballot due to the use of emergency powers for the resolution. The Ohio Supreme court ruled the resolution did not sufficiently justify the use of emergency powers to avoid consideration of the referendum by the board of elections.\n",
@@ -7357,7 +7231,7 @@
     "status": "Open",
     "summary": "The defendant's land is subject to a conservation easement, however, they are seeking to develop it into a data center in coordination with Google. The plaintiff nonprofit seeks a declaratory judgment enforcing the easement, and alleges trespass and tortious interference.\n",
     "documents": [],
-    "lawType": "Statutory",
+    "lawType": "Common Law",
     "secondaryCategory": "Common Law: Torts",
     "lastUpdated": "September 30, 2026",
     "media": [
@@ -8158,31 +8032,6 @@
     "media": [
       "https://www.ozaukeepress.com/content/group-sues-city-block-data-center-tif-district#:~:text=Great%20Lakes%20Neighbors%20Inc.%2C%20through",
       "https://www.wpr.org/news/community-challenges-port-washingtons-data-center-tid-court"
-    ]
-  },
-  {
-    "id": "city-of-edgerton-v-schmidt",
-    "shortName": "City of Edgerton v. Schmidt",
-    "citation": "City of Edgerton v. Schmidt",
-    "docket": "JO-2026-CV-002080",
-    "filingDisplay": "August 4, 2026",
-    "yearFiled": "2026",
-    "location": "Kansas",
-    "forum": "Johnson County District Court",
-    "forumType": "State",
-    "caseLevel": "Trial",
-    "developerPlaintiff": "No",
-    "corporateEntities": "",
-    "category": "Information/Records Requests/Elections and Ballot Measures",
-    "docketLink": "https://casesearch.kscourts.gov/Home/CaseDetail",
-    "status": "Open",
-    "summary": "",
-    "documents": [],
-    "lawType": "Statutory",
-    "secondaryCategory": "Land Use Planning and Zoning: Substantive Planning Decisions",
-    "lastUpdated": "September 8, 2026",
-    "media": [
-      "https://www.kctv5.com/2026/08/14/edgerton-calls-citizen-petition-void-invalid-files-suit-block-data-center-ban/"
     ]
   },
   {
