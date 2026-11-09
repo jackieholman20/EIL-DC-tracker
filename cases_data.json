@@ -3164,7 +3164,7 @@
     "category": "Common Law: Contract Disputes Among Developers",
     "docketLink": "https://www.courtlistener.com/docket/63404307/gw-acquisition-co-llc-v-pageland-limited-liability-company/",
     "status": "Closed",
-    "summary": "GW Acquisition Co. (an affiliate of QTS Realty Trust) sued landowners Pageland Limited Liability Company and the Mitchell family for breach of contract, alleging they refused to honor purchase-and-sale agreements for roughly 175 acres that were part of GWA's larger, roughly 812-acre \"Digital Gateway\" data center assemblage in Prince William County, Virginia. GWA alleged the sellers wrongly refused to approve \"proffers\" needed for GWA's rezoning application and/or sought to terminate the agreements to obtain a higher price, jeopardizing the entire rezoning effort; GWA sought a preliminary injunction and damages, including recovery of legal costs it says it was owed from a related prior dispute with Pageland. The district court found GWA likely to succeed on the merits and that it would suffer irreparable harm without an injunction; Pageland appealed to the Fourth Circuit.\n",
+    "summary": "On March 8, 2022, plaintiff GW Acquisition Co., LLC (a data center developer affiliated with QTS) filed the lawsuit against Pageland, LLC, Barbara Brower, and Jon Sanders Brower (sellers of land for development). The case was filed in the District Court for the Eastern District of Virginia, Alexandria Division. It's a diversity breach of contract action over a Purchaser and Sale Agreement (PSA) for land in Prince William County for the Digital Gateway Project. The sellers brought third-party claims against broker Mary Ghadban and MagLandBroker, LLC. The court entered a declaratory judgment ordering Pageland LLC to \"support and cooperate with\" the plaintiff in obtaining approval of rezoning. It also found that Pageland, LLC breached the PSA, rejected the sellers' contract and tort claims, and later awarded plaintiff's attorney fees. The sellers appealed to the 4th Circuit. On June 9, 2025, after argument on May 7 2025, the fourth circuit affirmed in an unpublished opinion, calling the case \"one of seller's remorse.\"\n",
     "documents": [
       {
         "title": "Memorandum Opinion",
@@ -3175,7 +3175,7 @@
     ],
     "lawType": "Common Law",
     "secondaryCategory": "",
-    "lastUpdated": "",
+    "lastUpdated": "November 8, 2026",
     "media": []
   },
   {
@@ -5309,7 +5309,7 @@
   {
     "id": "in-re-flx-strong-v-town-of-lansing-zoning-bd-of-appeals-2026",
     "shortName": "FLX Strong v. Town of Lansing Zoning Bd. of Appeals",
-    "citation": "In re FLX Strong v. Town of Lansing Zoning Bd. of Appeals, 2026 N.Y. Slip Op. 76311(U) (N.Y. App. Div. 3d Dep’t Sept. 8, 2026).",
+    "citation": "In re FLX Strong v. Town of Lansing Zoning Bd. of Appeals, 2026 N.Y. Slip Op. 76311(U) (N.Y. App. Div. 3d Dep’t Sept. 8, 2026)",
     "docket": "CV-26-1132",
     "filingDisplay": "July 2, 2026",
     "yearFiled": "2026",
@@ -5322,11 +5322,11 @@
     "category": "Land Use Planning and Zoning: Substantive Planning Decisions",
     "docketLink": "https://iapps.courts.state.ny.us/nyscef/DocumentList?docketId=nssZVSQVL/pFYf_PLUS_AzdMPuQ==&display=all&courtType=Appellate%20Division%20-%203rd%20Dept&resultsPageNum=1",
     "status": "Open",
-    "summary": "The Appellate Court denied a motion to appeal a decision by a lower court. The decision sought for appeal was a claim brought by FLX Strong and CLEAN., two grassroots organization seeking to challenge the decision by the Lansing Town Zoning Board that the former site of a power plant classified for Industrial/Research use could be repurposed for a data center. The previous ruling is entered as an exhibit in the appeal filings.\n\nIn the previous ruling, the Zoning Board (and the developers) sought to dismiss the claim on the basis that the plaintiffs (FLX Strong et al.) lacked standing to bring a suit in the matter of the data center zoning, and that the case was not ripe because future zoning decisions could ameliorate their concerns. The lower court ruled that the plaintiffs did have standing because the organization members would have their enjoyment of the surrounding nature disturbed and also have noise impacts. It ruled that the case was ripe and that the plaintiffs stated a claim for relief, because they challenged the Zoning Board’s decision which permitted the project to proceed without additional approval for a first time use variance. \n\nThe lower court denied the motion to dismiss the claim, and the Appellate Court denied the subsequent motion for an appeal. Upon the dismissal of the appeal, there have been no further updates on this case as of October 22nd, although the Lansing Town and the State of New York are considering bans on data center development.\n",
+    "summary": "The Appellate Court denied a motion to appeal a decision by a lower court. The decision sought for appeal was a claim brought by FLX Strong and CLEAN., two grassroots organization seeking to challenge the decision by the Lansing Town Zoning Board that the former site of a power plant classified for Industrial/Research use could be repurposed for a data center. The previous ruling is entered as an exhibit in the appeal filings.\n\nIn the previous ruling, the Zoning Board (and the developers) sought to dismiss the claim on the basis that the plaintiffs (FLX Strong et al.) lacked standing to bring a suit in the matter of the data center zoning, and that the case was not ripe because future zoning decisions could ameliorate their concerns. The lower court ruled that the plaintiffs did have standing because the organization members could have their enjoyment of the surrounding nature disturbed and may experience noise impacts. It ruled that the case was ripe and that the plaintiffs stated a claim for relief, because they challenged the Zoning Board’s decision which permitted the project to proceed.\n\nThe lower court denied the motion to dismiss the claim, and the Appellate Court denied the subsequent appeal. There have been no further updates on this case as of October 22nd, although the Lansing Town and the State of New York are considering bans on data center development.\n",
     "documents": [],
     "lawType": "Statutory",
     "secondaryCategory": "",
-    "lastUpdated": "October 29, 2026",
+    "lastUpdated": "November 8, 2026",
     "media": []
   },
   {
@@ -5679,9 +5679,9 @@
     ]
   },
   {
-    "id": "data-foundry-inc-v-city-of-austin",
+    "id": "data-foundry-inc-v-city-of-austin-2017-wl-11393319-tex-dist-",
     "shortName": "Data Foundry, Inc. v. City of Austin",
-    "citation": "Data Foundry, Inc. v. City of Austin",
+    "citation": "Data Foundry, Inc. v. City of Austin, 2017 WL 11393319 (Tex. Dist. Ct. Nov. 27, 2017), aff’d in part, rev’d in part, & remanded, 575 S.W.3d 92 (Tex. App.—Houston [14th Dist.] 2019), judgment aff’d in part and rev’d in part, 620 S.W.3d 692 (Tex. 2021)",
     "docket": "14-18-00071-CV",
     "filingDisplay": "January 30, 2018",
     "yearFiled": "2018",
@@ -5694,7 +5694,7 @@
     "category": "Constitutional Law: Takings",
     "docketLink": "https://search.txcourts.gov/Case.aspx?cn=14-18-00071-CV&coa=coa14",
     "status": "Closed",
-    "summary": "Data Foundry, Inc., an internet service provider operating data centers in Austin, sued the City of Austin over rates charged by Austin Energy, the city-owned electric utility, alleging the rates are unjust, unreasonable, excessive, confiscatory, discriminatory, and constitute a taking. The trial court dismissed Data Foundry's claims for lack of standing; the Fourteenth Court of Appeals held Data Foundry had standing but still affirmed dismissal of the claims on other grounds. On April 9, 2021, the Texas Supreme Court held that Data Foundry has standing as a ratepayer to challenge generally applicable municipal utility rates without needing to show an injury distinct from other ratepayers, reversed the courts below in part, and remanded the case to the trial court for further proceedings on the merits of the rate challenge.\n",
+    "summary": "Data Foundry (Plaintiff) operated data centers in Austin, TX, and purchased its electricity from Austin Energy (the sole entity that provides electricity in that municipality and is owned by the City of Austin (Defendant)). Austin Energy proposed a new rate structure; Data Foundry challenged this in administrative hearings, and then sued in court on the basis that the proposed rates were discriminatory and excessive. The city filed a motion to dismiss the case on the basis of Texas Rule 91a (i.e., the claim had no basis in law or fact). The trial court dismissed the case on the basis of Data Foundry lacking standing.\nOn appeal, the appellate court ruled that Data Foundry had standing because it was being required to pay higher charges, but the court ruled that rate review was not within the jurisdiction of the courts.\nOn appeal to the Texas Supreme Court, the court ruled that Data Foundry had standing and ordered that the trial court rule on jurisdiction and whether the rates proposed were discriminatory.\n",
     "documents": [
       {
         "title": "Opinion",
@@ -5705,7 +5705,7 @@
     ],
     "lawType": "Constitutional Law",
     "secondaryCategory": "",
-    "lastUpdated": "October 29, 2026",
+    "lastUpdated": "November 8, 2026",
     "media": []
   },
   {
@@ -5973,7 +5973,7 @@
     "category": "Energy Law: RTOs, FERC, DOE",
     "docketLink": "N/A",
     "status": "Closed",
-    "summary": "Blocktree Properties and several affiliated Bitcoin-mining/data-hosting LLCs and an individual sued Grant County's Public Utility District No. 2 and its commissioners, alleging the utility's rate structure for cryptocurrency-mining customers violated Washington ratemaking law and the Due Process and Privileges and Immunities Clauses of the Washington State Constitution. Plaintiffs, who operated mining facilities drawn to the district by its low-cost hydroelectric power, sought declaratory and injunctive relief and damages; the court denied a preliminary injunction in 2019 (affirmed by the Ninth Circuit on interlocutory appeal), and on March 12, 2020, granted summary judgment in the utility district's favor on all claims, closing the case.\n",
+    "summary": "On December 19, 2018, Plaintiffs Blocktree Properties, LLC and other cryptocurrency-mining companies and an individual filed the lawsuit against Public Utility District No.2 of Grant County and its commissioners. The case was filed in the District Court for the Eastern District of Washington. Plaintiffs challenged the District No. 2's new and more expensive \"evolving industries\" electric rate class, and alleged that it was aimed at cryptocurrency miners and violated federal and Washington law. They asked the Court to enjoin the plan. The district court denied a preliminary iinjunction and found that Plaintiffs had not shown irreparable harm. On appeal, the Ninth Circuit affirmed the decision. On March 12, 2020, the district court granted in part the defendant's renewed motion for summary juddgment and denied Paintiff's motion for summary judgment. The case is closed.\n",
     "documents": [
       {
         "title": "Memorandum",
@@ -5984,7 +5984,7 @@
     ],
     "lawType": "Statutory",
     "secondaryCategory": "",
-    "lastUpdated": "October 29, 2026",
+    "lastUpdated": "November 8, 2026",
     "media": []
   },
   {
@@ -6251,9 +6251,9 @@
     ]
   },
   {
-    "id": "data-foundry-inc-v-city-of-austin",
+    "id": "data-foundry-inc-v-city-of-austin-2017-wl-11393319-tex-dist-",
     "shortName": "Data Foundry, Inc. v. City of Austin",
-    "citation": "Data Foundry, Inc. v. City of Austin",
+    "citation": "Data Foundry, Inc. v. City of Austin, 2017 WL 11393319 (Tex. Dist. Ct. Nov. 27, 2017), aff’d in part, rev’d in part, & remanded, 575 S.W.3d 92 (Tex. App.—Houston [14th Dist.] 2019), judgment aff’d in part and rev’d in part, 620 S.W.3d 692 (Tex. 2021)",
     "docket": "19-0475",
     "filingDisplay": "June 4, 2019",
     "yearFiled": "2019",
@@ -6266,7 +6266,7 @@
     "category": "Constitutional Law: Takings",
     "docketLink": "https://search.txcourts.gov/Case.aspx?cn=19-0475&coa=cossup",
     "status": "Closed",
-    "summary": "Data Foundry, Inc., an internet service provider operating data centers in Austin, sued the City of Austin over rates charged by Austin Energy, the city-owned electric utility, alleging the rates are unjust, unreasonable, excessive, confiscatory, discriminatory, and constitute a taking. The trial court dismissed Data Foundry's claims for lack of standing; the Fourteenth Court of Appeals held Data Foundry had standing but still affirmed dismissal of the claims on other grounds. On April 9, 2021, the Texas Supreme Court held that Data Foundry has standing as a ratepayer to challenge generally applicable municipal utility rates without needing to show an injury distinct from other ratepayers, reversed the courts below in part, and remanded the case to the trial court for further proceedings on the merits of the rate challenge.\n",
+    "summary": "Data Foundry (Plaintiff) operated data centers in Austin, TX, and purchased its electricity from Austin Energy (the sole entity that provides electricity in that municipality and is owned by the City of Austin (Defendant)). Austin Energy proposed a new rate structure; Data Foundry challenged this in administrative hearings, and then sued in court on the basis that the proposed rates were discriminatory and excessive. The city filed a motion to dismiss the case on the basis of Texas Rule 91a (i.e., the claim had no basis in law or fact). The trial court dismissed the case on the basis of Data Foundry lacking standing.\nOn appeal, the appellate court ruled that Data Foundry had standing because it was being required to pay higher charges, but the court ruled that rate review was not within the jurisdiction of the courts.\nOn appeal to the Texas Supreme Court, the court ruled that Data Foundry had standing and ordered that the trial court rule on jurisdiction and whether the rates proposed were discriminatory.\n",
     "documents": [
       {
         "title": "Opinion",
@@ -6277,8 +6277,10 @@
     ],
     "lawType": "Constitutional Law",
     "secondaryCategory": "",
-    "lastUpdated": "October 29, 2026",
-    "media": []
+    "lastUpdated": "November 8, 2026",
+    "media": [
+      "https://www.datafoundry.com/data-foundry-wins-landmark-appeal-against-city-of-austin/"
+    ]
   },
   {
     "id": "west-buckeye-rd-lp-vs-city-of-phoenix",
@@ -7254,7 +7256,7 @@
     "category": "Information/Records Requests/Elections and Ballot Measures",
     "docketLink": "https://eapps.courts.state.va.us/cav-public",
     "status": "Closed",
-    "summary": "Citizens for Fauquier County and ten individual plaintiffs separately sued the Warrenton Town Council (later joined by Amazon Data Services as an intervenor) to overturn the Council's February 2023 special-use-permit approval for the same Amazon data center. Plaintiffs contend the Town's April 2021 zoning amendment permitting data centers was void from its enactment because the Council's initiating resolution failed to state a statutorily required purpose, and that any permits issued under the amendment — including Amazon's — should be voided as a result.\n",
+    "summary": "In 2022, Petitioner Citizens for Fauquier County (CFFC) submitted Virginia Freedom of Information Act requests to the Town of Warrenton. It asked for emails and correspondence between town officials and Amazon about Amazon's proposed data center and its special use permit. The Town produced some records but withheld over 3100 emails under statutory exemptions. CFFC sought a writ of mandamus in the Fauquier County Circuit, which ruled for the Town in 2023, and CFFC appealed to the Court of Appeals of Virginia. In July 2024, the Court of Appeals held that the correspondence exemption applies to only one county official. It also remanded for further review of the withheld records and of attorney's fees. The appeal is closed. Separate litigation over the Amazon special use permit is still active in Fauquier County Circuit Court.\n",
     "documents": [
       {
         "title": "Opinion",
@@ -7265,7 +7267,7 @@
     ],
     "lawType": "Statutory",
     "secondaryCategory": "",
-    "lastUpdated": "",
+    "lastUpdated": "November 8, 2026",
     "media": []
   },
   {
