@@ -563,6 +563,31 @@
     ]
   },
   {
+    "id": "cent-sw-tex-dev-llc-v-pub-serv-co-of-okla-no-cj-2026-5069-ok",
+    "shortName": "Central Southwest Texas Development LLC v. Public Service Co. of Oklahoma and American Electric Power Company",
+    "citation": "Cent. Sw. Tex. Dev. LLC v. Pub. Serv. Co. of Okla., No. CJ-2026-5069 (Okla. Dist. Ct., Tulsa Cnty. filed Oct. 30, 2026",
+    "docket": "CJ-2026-5069",
+    "filingDisplay": "October 30, 2026",
+    "yearFiled": "2026",
+    "location": "Oklahoma",
+    "forum": "Tulsa County District Court",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "Yes",
+    "corporateEntities": "",
+    "category": "Common Law: Contract",
+    "docketLink": "https://www.oscn.net/dockets/GetCaseInformation.aspx?db=tulsa&number=CJ-2026-5069",
+    "status": "Open",
+    "summary": "Central Southwest Texas Development LLC (“CSW”) was building two data centers: one in Oologah (“Project Waterfall”) and one in Sperry (“Project Snowflake”). PSO was the sole electric provider for these projects. CSW sued Public Service Co. of Oklahoma (“PSO”) and American Electric Power Company (“AEP”) in Oklahoma District Court of Tulsa County on October 30, 2026. CSW claims tortious interference with economic advantage, breach of contract, bad faith, constrictive fraud, and piercing the corporate veil against PSO and AEP. They are seeking relief of $250 million in compensatory damages, punitive damages, attorneys costs and fees, appropriate preliminary and permanent injunctive relief, and pre-judgment and post-judgment interest as allowed by law. The case is pending as of November 2026.\n",
+    "documents": [],
+    "lawType": "Common Law",
+    "secondaryCategory": "Energy Law: State PUCs",
+    "lastUpdated": "November 10, 2026",
+    "media": [
+      "https://fox23.com/news/local/data-center-developer-sues-pso-over-allegations-of-unfair-treatment-11-06-2026"
+    ]
+  },
+  {
     "id": "missouri-coalition-for-the-env-et-al-v-city-of-st-louis-et-a",
     "shortName": "Missouri Coalition for the Environment v. City of St. Louis",
     "citation": "Missouri Coalition for the Env., et al. v. City of St. Louis, et al, No. 2622-CC13384 (Cir. Ct. City of St. Louis, Mo. filed Aug. 28, 2026)",
@@ -1135,6 +1160,31 @@
     ]
   },
   {
+    "id": "city-of-gallatin-v-gallatin-data-ctrs-llc-no-3-24-cv-00868-2",
+    "shortName": "City of Gallatin v. Gallatin Data Centers, LLC",
+    "citation": "City of Gallatin v. Gallatin Data Ctrs., LLC, No. 3:24-cv-00868, 2026 U.S. Dist. LEXIS 63843 (M.D. Tenn. Mar. 24, 2026)",
+    "docket": "3:24-cv-00868",
+    "filingDisplay": "July 17, 2024",
+    "yearFiled": "2024",
+    "location": "Tennessee",
+    "forum": "United States District Court for the Middle District of Tennessee",
+    "forumType": "Federal",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Common Law: Contract Disputes Among Developers",
+    "docketLink": "City of Gallatin v. Gallatin Data Centers, LLC, 3:24-cv-00868 – CourtListener.com",
+    "status": "Open",
+    "summary": "In 2024, Plaintiff filed the lawsuit against Gallatin Data Centers in the Sumner County Chancery Court, and the case was removed to the U.S. District Court for the Middle District of Tennessee, Nashville Division. The plaintiff seeks specific performance, which requires the data center to convey back a parcel at 1386 Gateway Drive in the Gallatin Industrial Center. The defendant (Data Center) and its affiliate counterclaimed against the City and the Gallatin Department of Electricity. They sought a declaratory judgment and argued there's unjust enrichment and breach of contract. On Mar 24, 2026, the court denied the City's renewed motion for judgment on the pleadings. There is no final ruling yet.\n",
+    "documents": [],
+    "lawType": "Common Law",
+    "secondaryCategory": "Common Law: Property",
+    "lastUpdated": "September 17, 2026",
+    "media": [
+      "https://www.wsmv.com/2026/11/02/gallatin-city-council-discuss-6-month-pause-data-centers-heres-what-know/"
+    ]
+  },
+  {
     "id": "tyler-gordon-et-al-v-city-of-shreveport",
     "shortName": "Gordon v. City of Shreveport",
     "citation": "Tyler Gordon, et al. v. City of Shreveport",
@@ -1282,6 +1332,31 @@
     "secondaryCategory": "",
     "lastUpdated": "September 25, 2026",
     "media": []
+  },
+  {
+    "id": "pa-consumer-advocate-v-ppl-elec-utils-corp-no-c-2026-3065756",
+    "shortName": "Pennsylvania Consumer Advocate v. PPL Electric Utilities Corp.",
+    "citation": "Pa. Consumer Advocate v. PPL Elec. Utils. Corp., No. C-2026-3065756 (Pa. Pub. Util. Comm'n filed Oct. 2, 2026).",
+    "docket": "C-2026-3065756",
+    "filingDisplay": "October 6, 2026",
+    "yearFiled": "2026",
+    "location": "Pennsylvania",
+    "forum": "Pennsylvania Public Utility Commission ",
+    "forumType": "State",
+    "caseLevel": "Regulatory Commission",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Energy Law: State PUCs",
+    "docketLink": "https://www.puc.pa.gov/docket/C-2026-3065756",
+    "status": "Open",
+    "summary": "The Pennsylvania Office of Consumer Advocate filed an administrative complaint against PPL Electric Utilities, a Pennsylvania utility company. The Office alleges that existing rules do not adequately protect consumers against price increases caused by the data center buildout. The Office seeks, among other things, revised utility rates. Governor Josh Shapiro subsequently petitioned to intervene in support of those consumer protections. \n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "",
+    "lastUpdated": "October 22, 2026",
+    "media": [
+      "https://www.msn.com/en-us/news/other/gov-josh-shapiro-files-petition-to-protect-electricity-customers-from-rising-costs/ar-AA2eoAEy"
+    ]
   },
   {
     "id": "state-ex-rel-blankenship-v-trenton-city-council-slip-op-no-2",
@@ -1651,6 +1726,29 @@
       "https://www.datacenterdynamics.com/en/news/developer-withdraws-plan-for-160-acre-data-center-in-prince-william-county-virginia/",
       "https://wjla.com/news/local/prince-william-county-digital-gateway-datacenter-appeal-lawsuit-rezoning-rural-farmland-manassas-battlefield-community-opposition-judges-construction-halted-developer-qts-compass-blackstone-supreme-virginia-economy-environment-landuse"
     ]
+  },
+  {
+    "id": "schumacher-v-sc-data-ctr-inc-728-s-w-3d-576-mo-ct-app-2025",
+    "shortName": "Ria Schumacher v. SC Data Center, Inc.",
+    "citation": "Schumacher v. SC Data Ctr., Inc., 728 S.W.3d 576 (Mo. Ct. App. 2025)",
+    "docket": "WD87722",
+    "filingDisplay": "December 26, 2024",
+    "yearFiled": "2024",
+    "location": "Missouri",
+    "forum": "\"Missouri Court of Appeals, Western District\"",
+    "forumType": "State",
+    "caseLevel": "Appellate",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Corporate Tax, Securities, Employment and Lobbying: Employment",
+    "docketLink": "https://www.courts.mo.gov/casenet/cases/newHeader.do?inputVO.caseNumber=WD87722&inputVO.courtId=SMPDB0001_WAP#docket",
+    "status": "Closed",
+    "summary": "Plaintiff Ria Schumacher filed the lawsuit against SC Data Center. The case was filed in the Circuit Court of Cole County, Missouri, and removed to the U.S. District Court for the Western District of Missouri. Schumacher alleged 3 violations of the Fair Credit Reporting Act (FCRA) after SC Data rescinded her conditional job offer based on a background check. In 2022, the Eighth Circuit held that she lacked standing and sent the case back to state court. The Cole County Circuit Court then dismissed the petition for failure to plead a concrete injury and denied Schumacher's motion to enforce a $333,600 class settlement. On December 2, 2025, the Missouri Court of Appeals, Western District, reversed the circuit court's judgment and remanded with instructions to proceed with enforcement.\n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "Other",
+    "lastUpdated": "December 2, 2025",
+    "media": []
   },
   {
     "id": "polaris-tech-v-city-of-muskogee-no-cv-2025-00457-dist-ct-mus",
@@ -2525,6 +2623,29 @@
       "https://www.oregonlive.com/silicon-forest/2021/11/the-dalles-sues-to-keep-googles-water-use-a-secret.html",
       "https://waterwatch.org/trust-issues-rise-to-the-surface-in-the-dalles-water-dispute/"
     ]
+  },
+  {
+    "id": "allen-v-city-of-sidney-2026-ohio-3403-2026",
+    "shortName": "Allen v. City of Sydney",
+    "citation": "Allen v. City of Sidney, 2026-Ohio-3403 (2026)",
+    "docket": "2026-00233PQ",
+    "filingDisplay": "March 27, 2025",
+    "yearFiled": "2025",
+    "location": "Ohio",
+    "forum": "United States District Court for the Southern District of Ohio",
+    "forumType": "Federal",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Information/Records Requests and Elections",
+    "docketLink": "https://www.pacermonitor.com/public/case/57429400/Allen_v_Board_of_Education_The_Sidney_City_School_District",
+    "status": "Closed",
+    "summary": "Plaintiff (Allen) filed a complaint against defendant City of Sidney alleging that she was denied access to public records about a certain data center development project. Allen claimed this was in violation of  R.C. 149.43(B) of the Ohio Revised Code. Amazon Data Services, Inc. moved to intervene in this filing, and Amazon Data Services, Inc., and the City jointly moved for leave to respond to requester’s complain. The City moved for dismissal of the claims under R.C. 2743.75(E)(2) and Civ.R. 12(B)(6). The Court found that the City of Sidney’s objections lacked merit, that Amazon's joinder was improper, and that Allen's objections lacked merit (and were thereby overruled). \n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "",
+    "lastUpdated": "September 8, 2026",
+    "media": []
   },
   {
     "id": "ercor-triboro-llc-v-borough-of-olyphant-no-2026-04180-lackaw",
@@ -3699,6 +3820,34 @@
     ]
   },
   {
+    "id": "jokubas-v-cloudbrothers-no-docket-number-s-r-rogaland-tingre",
+    "shortName": "Jokubas v. CloudBrothers",
+    "citation": "Jokubas v. CloudBrothers, No. [docket number] (Sør-Rogaland tingrett filed Oct. 16, 2026) (Nor.).",
+    "docket": "",
+    "filingDisplay": "October 16, 2026",
+    "yearFiled": "2026",
+    "location": "Norway",
+    "forum": "Sør-Rogaland tingrett (Sør-Rogaland District Court)",
+    "forumType": "Foreign",
+    "caseLevel": "",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Corporate Tax, Securities, Employment and Lobbying: Employment",
+    "docketLink": "https://www.domstol.no/no/Nar-gar-rettssaken/",
+    "status": "Open",
+    "summary": "On October 16, 2026, a former data center engineer filed a lawsuit in Sør-Rogaland District Court, Norway, against Nscale and CloudBrothers. The plaintiff brought claims under Norwegian employment law, alleging that he worked at Nscale's Stavanger-area data center through CloudBrothers under an unlawful subcontracting arrangement and that Nscale acted as his employer by directing his daily work and shifts. The plaintiff further alleged that CloudBrothers dismissed him in retaliation after he objected to a warning that two weeks of holiday pay would be withheld for late vacation requests and raised concerns with Norway's Labor Inspection Authority. The plaintiff sought monetary compensation and a declaration that he was an Nscale employee.\n",
+    "documents": [],
+    "lawType": "Foreign",
+    "secondaryCategory": "",
+    "lastUpdated": "November 8, 2026",
+    "media": [
+      "https://www.bloomberg.com/news/articles/2026-10-23/nscale-sued-in-norway-for-labor-violations-at-data-center-site",
+      "https://www.dn.no/arbeidsliv/saksoker-nscale-fikk-sparken-klokken-2300-etter-epost-om-arbeidsforhold/2-1-2060492",
+      "https://timesofindia.indiatimes.com/technology/tech-news/engineer-sues-datacenter-developer-nscale-as-it-gets-ready-for-listing-on-new-york-stock-exchange-claims-fired-over-letter-to-hr-complaining-over-/articleshow/135160830.cms",
+      "https://thenextweb.com/news/nscale-sued-norway-engineer-subcontracting"
+    ]
+  },
+  {
     "id": "powerhouse-hillwood-holding-llc-v-commonwealth-edison-co-no-",
     "shortName": "Powerhouse Hillwood Holding LLC v. Commonwealth Edison Co.,",
     "citation": "Powerhouse Hillwood Holding LLC v. Commonwealth Edison Co., No. 1:26-cv-08860 (N.D. Ill. July 26, 2026).",
@@ -3749,6 +3898,31 @@
     ]
   },
   {
+    "id": "gendreau-v-mcevoy-116-va-cir-212-2025",
+    "shortName": "Gendreau v. McEvoy",
+    "citation": "Gendreau v. McEvoy, 116 Va. Cir. 212 (2025).",
+    "docket": "CL25-2187; appeal docketed as Record No. 2157-25-3 (Va. Ct. App.)",
+    "filingDisplay": "October 9, 2025",
+    "yearFiled": "2025",
+    "location": "Virginia",
+    "forum": "\"Circuit Court of the City of Roanoke, Virginia\"",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Information/Records Requests and Elections",
+    "docketLink": "https://eapps.courts.state.va.us/cav-public/caseInquiry/showCasePublicInquiry?caseId=128833&searchName=Gendreau&searchNumber=&searchType=Case&partyType=&status=active&caseTypeCheck=&lowerTribunalCheck=&caseType=&tribunal=&lowerTribunalNumber=&lowerTribunalNumberCheck=",
+    "status": "Appealed",
+    "summary": "October 9, 2025, Henri Gendreau filed a petition for a writ of mandamus in the Circuit Court of the City of Roanoke against Mike McEvoy, Executive Director of the Western Virginia Water Authority (WVWA), alleging that WVWA violated the Virginia Freedom of Information Act by redacting water supply capacity figures tied to a proposed Google-affiliated data center in Botetourt County. WVWA asserted that the withheld information was exempt as proprietary information voluntarily provided by a private business under Va. Code § 2.2-3705.6(3). On November 5, 2025, the court granted Gendreau’s petition, finding that WVWA had not shown by a preponderance of the evidence that the information was proprietary, and ordered the records released. McEvoy entered an appeal to the Court of Appeals of Virginia on December 12, 2025 (Record No. 2157-25-3) and sought a stay of the circuit court’s judgment, which the Court of Appeals denied on January 28, 2026. As of the most recent docket entries, briefing was complete and the appeal remained pending with no disposition issued.\n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "",
+    "lastUpdated": "November 9, 2026",
+    "media": [
+      "https://virginiabusiness.com/google-botetourt-data-center-water-usage-foia"
+    ]
+  },
+  {
     "id": "rizzo-v-verizon-ccc-llc",
     "shortName": "Rizzo v. Verizon CCC LLC",
     "citation": "Rizzo v. Verizon CCC LLC",
@@ -3779,6 +3953,29 @@
     "media": [
       "https://www.datacenterdynamics.com/en/news/appeal-against-verizon-build-to-follow-normal-timetable/"
     ]
+  },
+  {
+    "id": "state-ex-rel-isreal-v-o-shaughnessy-2020-ohio-3292-ohio-ct-a",
+    "shortName": "State ex rel. Michael Isreal v. Maryellen O'Shaughnessy",
+    "citation": "State ex rel. Isreal v. O'Shaughnessy, 2020-Ohio-3292 (Ohio Ct. App.)",
+    "docket": "19AP-360",
+    "filingDisplay": "June 3, 2019",
+    "yearFiled": "2019",
+    "location": "Ohio",
+    "forum": "\"Court of Appeals of Ohio, Tenth Appellate District\"",
+    "forumType": "State",
+    "caseLevel": "Appellate",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Information/Records Requests/Elections and Ballot Measures",
+    "docketLink": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/caseSearch?nen72RqpzSFHQagrfQ67",
+    "status": "Closed",
+    "summary": "In 2019, the pro se litigant Michael Isreal filed a mandamus action against Maryellen O'Shaughnessy, the Franklin County Clerk of Courts. The case was filed as an original action in the Court of Appeals of Ohio (10th Appellate District). Isreal wanted records showing when the clerk's e-filing system was down in 2018. The clerk submitted an affidavit from its Director of Information Technology, and the court found that the Data Center official who issued the report is not part of the clerk's office (where Isreal had requested the records). On Jun. 11, 2020, the court ruled on Isreal's objections to the magistrate's decision. The case was closed.\n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "Other",
+    "lastUpdated": "June 11, 2020",
+    "media": []
   },
   {
     "id": "in-re-equinix-data-ctr-approval-city-of-cape-town-planning-a",
@@ -4213,6 +4410,31 @@
     ]
   },
   {
+    "id": "owens-pearson-v-city-of-memphis-no-2-26-cv-03358-tlp-tmp-w-d",
+    "shortName": "Owens-Pearson v. City of Memphis",
+    "citation": "Owens-Pearson v. City of Memphis, No. 2:26-cv-03358-TLP-tmp (W.D. Tenn. Oct. 20, 2026).",
+    "docket": "2:26-cv-03358-TLP-tmp",
+    "filingDisplay": "October 14, 2026",
+    "yearFiled": "2026",
+    "location": "Tennessee",
+    "forum": "Tennessee Western District Court",
+    "forumType": "Federal",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Other",
+    "docketLink": "https://www.pacermonitor.com/public/case/67349756/OwensPearson_et_al_v_CITY_OF_MEMPHIS_et_al",
+    "status": "Open",
+    "summary": "Six Memphis residents sued the City in the Western District of Tennessee, alleging that restrictions on public comments and bans from council meetings violated their First Amendment rights and constitutional equal protection guarantees. The plaintiffs seek to invalidate the council's speech and decorum restrictions and prevent enforcement of meeting-attendance bans imposed following protests over a proposed data center moratorium. On October 20, 2026, the court partially granted a temporary restraining order, prohibiting enforcement of the plaintiffs' attendance bans and certain speech restrictions. \n",
+    "documents": [],
+    "lawType": "",
+    "secondaryCategory": "Constitutional Law: Equal Protection",
+    "lastUpdated": "October 22, 2026",
+    "media": [
+      "https://www.yahoo.com/news/politics/articles/activists-barred-memphis-city-council-164217931.html"
+    ]
+  },
+  {
     "id": "mack-paramus-co-v-mayor-council-of-borough-of-paramus",
     "shortName": "Mack Paramus Co. v. Mayor & Council of Borough of Paramus",
     "citation": "Mack Paramus Co. v. Mayor & Council of Borough of Paramus",
@@ -4510,6 +4732,36 @@
     "media": []
   },
   {
+    "id": "quantum-md-llc-v-fitzwater-no-c-10-cv-26-000874-md-cir-ct-fi",
+    "shortName": "Quantum Md. LLC v. Fitzwater",
+    "citation": "Quantum Md., LLC v. Fitzwater, No. C-10-CV-26-000874 (Md. Cir. Ct. filed Oct. 8, 2026).",
+    "docket": "C-10-CV-26-000874",
+    "filingDisplay": "October 8, 2026",
+    "yearFiled": "2026",
+    "location": "Maryland",
+    "forum": "\"Circuit Court for Frederick County, Maryland\"",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "Yes",
+    "corporateEntities": "",
+    "category": "Land Use Planning and Zoning: Substantive Planning Decisions",
+    "docketLink": "https://casesearch.courts.state.md.us/casesearch/case-detail-page?caseId=C10CV26000874",
+    "status": "Open",
+    "summary": "On October 8, 2026, Quantum Maryland LLC filed a lawsuit in the Circuit Court for Frederick County, Maryland, against County Executive Jessica Fitzwater, in her official and individual capacities, Frederick County, and the Frederick County Planning Commission. The plaintiff challenged the county's Executive Order 05-2026, which superseded the County Executive's July 2026 order and extended a temporary hold on accepting, considering, and processing applications for data centers and related electric substations through July 1, 2027, alleging that the County Executive overstepped her authority by suspending a council-approved zoning ordinance. The plaintiff also alleged violations of its constitutional rights, and further alleged that the moratorium was timed to the November election and disrupted a land transaction near Adamstown valued at more than $500 million. The plaintiff asked the court to invalidate the moratorium, restore its access to the county's development approval process, and award damages. On October 23, 2026, the court denied the plaintiff's emergency motions for a temporary restraining order and a preliminary injunction and declared several related procedural motions moot. The case remains open, and no final decision appears in the available docket.\n",
+    "documents": [],
+    "lawType": "Constitutional Law",
+    "secondaryCategory": "Constitutional Law: Separation of Power",
+    "lastUpdated": "November 8, 2026",
+    "media": [
+      "https://www.fredericknewspost.com/news/continuing_coverage/data_centers/judge-denies-restraining-order-in-data-center-lawsuit-against-frederick-county/article_40b3c806-d3ff-5807-b195-4e445d198a73.html",
+      "https://www.fredericknewspost.com/news/continuing_coverage/data_centers/data-center-developer-sues-frederick-county-over-moratorium/article_72bc73fc-8a81-5839-9b98-9a686c198167.html",
+      "https://www.yahoo.com/news/politics/articles/updated-county-says-no-emergency-035900310.html",
+      "https://foxbaltimore.com/news/local/data-center-lawsuit-alleges-frederick-county-executive-put-politics-ahead-of-development",
+      "https://aminerdetail.com/fitzwater-quantum-lawsuit-data-center-executive-order/",
+      "https://technical.ly/civics/quantum-maryland-sues-frederick-county-data-center-freeze/"
+    ]
+  },
+  {
     "id": "independent-market-monitor-for-pjm-v-ferc",
     "shortName": "Independent Market Monitor for PJM v. FERC",
     "citation": "Independent Market Monitor for PJM v. FERC",
@@ -4745,6 +4997,29 @@
     ]
   },
   {
+    "id": "next-level-tech-grp-llc-v-wehde-enters-llc-no-4-24-cv-04199-",
+    "shortName": "Next Level Technology Group, LLC v. Wehde Enters., LLC",
+    "citation": "Next Level Tech. Grp., LLC v. Wehde Enters., LLC, No. 4:24-cv-04199-KES, 2026 U.S. Dist. LEXIS 7664 (D.S.D. Jan. 13, 2026)",
+    "docket": "4:24-CV-04199-KES",
+    "filingDisplay": "October 31, 2024",
+    "yearFiled": "2024",
+    "location": "South Dakota",
+    "forum": "\"U.S. District Court for the District of South Dakota, Southern Division\"",
+    "forumType": "Federal",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Common Law: Contract Disputes Among Developers",
+    "docketLink": "https://dockets.justia.com/docket/south-dakota/sddce/4:2024cv04199/81602",
+    "status": "Closed",
+    "summary": "On October 31, 2024, Plaintiff Next Level Technology Group (NLT) filed a lawsuit against Wehde Enterprises LLC (WE) and Brandon Wehde, individually. The case was filed in the U.S. District Court for the District of South Dakota, Southern Division. NLT operates a data center in Sioux Falls, and it alleged that after WE sold its NLT membership units, WE and Wehde withheld the data denter's access codes and company property, diverted NLT's customers to Wehde's new competing company, and billed NLT for services they did not perform. NLT seeks compensatory and punitive damages and injunctive relief; the court denied its motion for a preliminary injunction on Dec 13, 2024. On Jan 13, 2026, the court dismissed all claims against Wehde individually and denied WE's motion to dismiss.\n",
+    "documents": [],
+    "lawType": "Common Law",
+    "secondaryCategory": "Common Law: Torts",
+    "lastUpdated": "January 13, 2026",
+    "media": []
+  },
+  {
     "id": "illinois-commerce-commission-on-its-own-motion-v-commonwealt",
     "shortName": "Illinois Commerce Comm'n v. Commonwealth Edison Co.",
     "citation": "Illinois Commerce Commission On Its Own Motion v. Commonwealth Edison Company",
@@ -4879,6 +5154,31 @@
     ]
   },
   {
+    "id": "gardner-v-lowndes-cnty-comm-n-no-45-cv-2026-900061-00-cir-ct",
+    "shortName": "Gardner v. Lowndes County Commission",
+    "citation": "Gardner v. Lowndes Cnty. Comm’n, No. 45-CV-2026-900061.00 (Cir. Ct. Lowndes Cnty., Ala. filed Nov. 3, 2026).",
+    "docket": "45-CV-2026-900061.00",
+    "filingDisplay": "November 3, 2026",
+    "yearFiled": "2026",
+    "location": "Alabama",
+    "forum": "\"Circuit Court of Lowndes County, Alabama\"",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Land Use Planning and Zoning: Procedural, Public Meeting, and Notice Requirements",
+    "docketLink": "https://pa.alacourt.com/Default.aspx",
+    "status": "Open",
+    "summary": "On November 3, 2026, Tom Gardner, Adrian Johnson, Protect Lowndes County, and Alabama Rivers Alliance filed suit against the Lowndes County Commission and five commissioners in Alabama state court. The plaintiffs allege that the Commission violated the Alabama Open Meetings Act by failing to provide adequate meeting notices, restricting public observation and comment, and approving development and tax-abatement agreements for Project Red Clay at its October 13 meeting despite indicating that the matter would be considered later. They also allege that the Commission failed to produce requested public records in violation of the Alabama Open Records Act. The plaintiffs seek declaratory and injunctive relief, invalidation of the Commission's approval, further proceedings consistent with state law, disclosure of records, and authorized civil penalties. The suit is ongoing as of November 2026.\n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "Information/Records Requests and Elections",
+    "lastUpdated": "November 7, 2026",
+    "media": [
+      "https://www.govtech.com/products/second-lawsuit-filed-over-alabama-data-center-deal"
+    ]
+  },
+  {
     "id": "montgomery-v-dataone-usa-llc",
     "shortName": "Montgomery v. DataOne USA LLC",
     "citation": "Montgomery v. DataOne USA LLC",
@@ -5005,6 +5305,31 @@
     ]
   },
   {
+    "id": "pringle-v-sutton-no-2-26-cv-04265-w-d-wash-filed-nov-4-2026",
+    "shortName": "Pringle v. Sutton",
+    "citation": "Pringle v. Sutton, No. 2:26-cv-04265 (W.D. Wash. filed Nov. 4, 2026).",
+    "docket": "2:26-cv-04265",
+    "filingDisplay": "November 4, 2026",
+    "yearFiled": "2026",
+    "location": "Washington",
+    "forum": "United States District Court for the Western District of Washington",
+    "forumType": "Federal",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Common Law: Torts",
+    "docketLink": "dockets.justia.com/docket/washington/wawdce/2:2026cv04265/371319",
+    "status": "Open",
+    "summary": "On November 4, 2026, Washington electrician Monte Pringle filed a proposed class action in the U.S. District Court for the Western District of Washington against several individuals and nonprofit organizations. Pringle alleges that the defendants coordinated or financed conduct involving unauthorized access to data-center construction sites, obstruction of workers' access, and threatening communications that interfered with existing contracts and prospective employment opportunities. The complaint asserts common-law claims for tortious interference with contract, tortious interference with business expectancy, civil conspiracy, and aiding and abetting tortious interference. Pringle seeks class certification, compensatory and consequential damages, and attorneys' fees and costs where authorized. The suit is ongoing as of November 2026.\n",
+    "documents": [],
+    "lawType": "Common Law",
+    "secondaryCategory": "",
+    "lastUpdated": "November 7, 2026",
+    "media": [
+      "https://freebeacon.com/china/soros-groups-orchestrated-china-funded-scheme-to-harass-seattle-data-center-developers-and-workers-lawsuit/"
+    ]
+  },
+  {
     "id": "cyrusone-llc-v-the-city-of-aurora-illinois",
     "shortName": "CyrusOne LLC v. City of Aurora",
     "citation": "CyrusOne LLC v. The City of Aurora, Illinois",
@@ -5061,6 +5386,29 @@
       "https://cbs2iowa.com/news/local/nextera-doe-discuss-19b-duane-arnold-restart-loan",
       "https://www.foxbusiness.com/fox-news-tech/us-loans-1-9b-restart-shuttered-iowa-nuclear-plant"
     ]
+  },
+  {
+    "id": "dataspan-holdings-inc-v-choquer-no-2-25-cv-2607-bjr-2026-u-s",
+    "shortName": "DataSpan Holdings, Inc. v. Choquer",
+    "citation": "DataSpan Holdings, Inc. v. Choquer, No. 2:25-cv-2607-BJR, 2026 U.S. Dist. LEXIS 8514 (W.D. Wash. Jan. 15, 2026).",
+    "docket": "2:25-cv-2607-BJR",
+    "filingDisplay": "December 18, 2025",
+    "yearFiled": "2025",
+    "location": "Washington",
+    "forum": "United States District Court for the Western District of Washington",
+    "forumType": "Federal",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Corporate: IP",
+    "docketLink": "https://www.courtlistener.com/opinion/10794394/dataspan-holdings-inc-v-marian-choquer/",
+    "status": "Open",
+    "summary": "On December 18, 2025, DataSpan Holdings, Inc., a provider of data-center maintenance and support services, filed suit in the U.S. District Court for the Western District of Washington against Marian Choquer, a former account manager, alleging trade secret misappropriation under the Defend Trade Secrets Act, breach of contract, breach of the duty of loyalty, and unjust enrichment. DataSpan alleged that Choquer copied confidential customer, pricing, and project information to personal devices shortly before being questioned about a data-center project whose follow-on phase had been diverted to a competitor, and that she later admitted working with that competitor. After an initial ex parte request for a temporary restraining order was denied for procedural reasons, the court granted DataSpan’s renewed motion on January 15, 2026, finding a likelihood of success on the DTSA and contract claims and ordering Choquer to stop using DataSpan’s information, surrender her devices for forensic review, and provide a sworn accounting of any disclosures. The court also granted expedited discovery and set a briefing schedule for a preliminary injunction motion, with the restraining order remaining in effect until that motion is resolved.\n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "Corporate: Employment",
+    "lastUpdated": "November 9, 2026",
+    "media": []
   },
   {
     "id": "susquehanna-nuclear-v-ferc",
@@ -5282,6 +5630,32 @@
     "secondaryCategory": "",
     "lastUpdated": "",
     "media": []
+  },
+  {
+    "id": "silver-fox-606-llc-v-village-of-indiantown-no-26001122caaxmx",
+    "shortName": "Silver Fox 606 LLC vs. Village of Indiantown",
+    "citation": "Silver Fox 606 LLC v. Village of Indiantown, No. 26001122CAAXMX (Fla. Cir. Ct. Martin Cnty. filed Oct. 7, 2026).",
+    "docket": "26001122CAAXMX",
+    "filingDisplay": "October 7, 2026",
+    "yearFiled": "2026",
+    "location": "Florida",
+    "forum": "Martin County Circuit Court",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "Yes",
+    "corporateEntities": "",
+    "category": "Land Use Planning and Zoning: Procedural, Public Meeting, and Notice Requirements",
+    "docketLink": "https://court.martinclerk.com/CourtCase.aspx/Details/1401680?digest=LUMViCFjGooOdls4%2BR%2Fxuw",
+    "status": "Open",
+    "summary": "Silver Fox 606 LLC, a data center company, sued Indiantown Planning, Zoning and Appeals Board, challenging the Board's decision to hear a resident's appeal of an administratively approved property plat for its Project Silver Fox data center. Silver Fox alleges violations of Florida land use and zoning laws. On October 13, 2026, the court granted an injunction blocking the scheduled October 19 appeal hearing and directed the Village to explain why the hearing should proceed.\n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "Land Use Planning and Zoning: Substative Planning Decisions",
+    "lastUpdated": "October 14, 2026",
+    "media": [
+      "https://www.bradenton.com/news/article317637366.html",
+      "https://www.miamiherald.com/news/article317585394.html"
+    ]
   },
   {
     "id": "vill-of-monroeville-v-gray-matter-advisors-inc-2026-ohio-211",
@@ -5541,6 +5915,29 @@
       "https://www.wric.com/news/local-news/goochland-county/goochland-residents-sue-county-over-tod-approval/",
       "https://www.goochlandva.us/TOD"
     ]
+  },
+  {
+    "id": "kyndryl-inc-v-comput-scis-corp-2026-u-s-dist-lexis-197405-20",
+    "shortName": "Kyndryl, Inc. v. Computer Sciences Corporation et al",
+    "citation": "Kyndryl, Inc. v. Comput. Scis. Corp., 2026 U.S. Dist. LEXIS 197405 (2026)",
+    "docket": "\t1:2025cv13943",
+    "filingDisplay": "December 22, 2025",
+    "yearFiled": "2025",
+    "location": "Massachusetts",
+    "forum": "United States District Court for the District of Massachusetts",
+    "forumType": "Federal",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Corporate: Arbitration",
+    "docketLink": "https://dockets.justia.com/docket/massachusetts/madce/1:2025cv13943/293668 AND https://www.govinfo.gov/app/details/USCOURTS-mad-1_25-cv-13943/USCOURTS-mad-1_25-cv-13943-0/summary",
+    "status": "Closed",
+    "summary": "Plaintiff Kyndryl, Inc. subcontracted with defendant Computer Sciences\nCorporation (“CSC”), a subsidiary of defendant DXC Technology Company. Kyndryl was to provide data storage services to an end user under this contract. The Master Services Agreement (“MSA”) contract granted CSC exclusive rights over certain services. Under the MSA, Kyndryl tried to “descope” certain services. The complaint at issue alleges that under the MSA, descoping is a valid termination mechanism of the contract. The complaint alleges that the defendants are in material breach of their contract. The litigant's cross-motions to dismiss were granted in part and denied in part. \n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "Corporate: Employment",
+    "lastUpdated": "September 1, 2026",
+    "media": []
   },
   {
     "id": "coll-craig-a-v-hollenback-township-board-of-supervisors",
@@ -6067,6 +6464,79 @@
     ]
   },
   {
+    "id": "stewart-v-brown-realty-co-of-rayville-no-50262-la-dist-ct-fi",
+    "shortName": "Stewart v. Brown Realty Co. of Rayville, Inc.",
+    "citation": "Stewart v. Brown Realty Co. of Rayville, No. 50262 (La. Dist. Ct. filed July 9, 2025).",
+    "docket": "50262",
+    "filingDisplay": "July 9, 2025",
+    "yearFiled": "2025",
+    "location": "Louisiana",
+    "forum": "\"Fifth Judicial District Court, Richland Parish, Louisiana, Division A\"",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Common Law: Property",
+    "docketLink": "https://www.eclerksla.com/eclerks/statewideportal",
+    "status": "Open",
+    "summary": "On July 9, 2025, Dennis G. Stewart filed a lawsuit in the Fifth Judicial District Court for Richland Parish, Louisiana, against Brown Realty Co. of Rayville, Inc. and several individuals. The plaintiff brought a claim under Louisiana's doctrine of lesion beyond moiety, alleging that the $3,000-per-acre sale price for his Holly Ridge land was less than half its fair market value. The plaintiff further alleged that the buyers, a group of Brown Realty executives and their family members, had access to information that led them to believe the property was more valuable than the purchase price and used it to benefit themselves in violation of their duty to him, and that Brown Realty later advertised nearby tracts for more than ten times what the buyers paid him. The plaintiff sought to unwind the September 2024 sale, which took place months before Meta's nearby data center was publicly announced. The case remains open, and no final decision appears in the available sources.\n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "Common Law: Contract",
+    "lastUpdated": "November 8, 2026",
+    "media": [
+      "https://www.nola.com/news/meta-richland-land-price/article_cfa0073a-d730-4030-861c-77be2a5ec918.html"
+    ]
+  },
+  {
+    "id": "digiport-inc-v-foram-dev-bfc-llc-314-so-3d-550-fla-dist-ct-a",
+    "shortName": "Digiport, Inc. v. Foram Dev. BFC, LLC",
+    "citation": "Digiport, Inc. v. Foram Dev. BFC, LLC, 314 So. 3d 550 (Fla. Dist. Ct. App. 2020)",
+    "docket": "3D18-1651",
+    "filingDisplay": "August 7, 2018",
+    "yearFiled": "2018",
+    "location": "Florida",
+    "forum": "\"District Court of Appeal of Florida, Third District\"",
+    "forumType": "State",
+    "caseLevel": "Appellate",
+    "developerPlaintiff": "Yes",
+    "corporateEntities": "",
+    "category": "Corporate: IP",
+    "docketLink": "https://www.bloomberglaw.com/document/2048116294292738",
+    "status": "Closed",
+    "summary": "Digiport, a data center development companies brought claims against a data center owner for misappropriation of a trade secret under Florida's Uniform Trade Secret Act (FUTSA). The trial court granted summary judgment in favor of Foram Group, and Digiport appealed. Digiport's alleged trade secret was a design for a single, centralized data center, where tenants could rent space for computer hardware or use cloud computing services. The District Court of Appeal held that questions of facts remained, specifically whether the alleged trade secret qualifies as a trade secret, and on damages. \n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "",
+    "lastUpdated": "December 16, 2020",
+    "media": []
+  },
+  {
+    "id": "doe-v-onderlaw-llc-no-26sl-cc07357-mo-cir-ct-st-louis-cnty-f",
+    "shortName": "Jane Doe v. OnderLaw, LLC and James G. Onder",
+    "citation": "Doe v. OnderLaw, LLC, No. 26SL-CC07357 (Mo. Cir. Ct., St. Louis Cnty. filed Nov. 5, 2026)",
+    "docket": "26SL-CC07357",
+    "filingDisplay": "November 5, 2026",
+    "yearFiled": "2026",
+    "location": "Missouri",
+    "forum": "Circuit Court City of St. Louis",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Corporate Tax, Securities, Employment and Lobbying: Employment",
+    "docketLink": "https://www.courts.mo.gov/casenet/cases/newHeader.do?inputVO.caseNumber=26SL-CC07357&inputVO.courtId=CT21&inputVO.isTicket=false#docket",
+    "status": "Open",
+    "summary": "Jim Onder owns OnderLaw, a personal injury law firm, and is developing a data center. Jane Doe worked at OnderLaw and claims the firm demonstrated workers compensation discrimination under Missouri Workers’ Compensation Law by firing her after she sought medical leave for work-related stress, violated the Missouri Whistleblower Protection Act by retaliating against her after she refused to attempt to influence the City Council’s decision on tax breaks for data centers, and that Jim Onder sexually assaulted and committed battery against her on multiple occasions. Doe is seeking relief via actual damages (economic and non-economic), nominal and/or statutory damages, punitive damages, pre- and post-judgment interest at the maximum legal rate, declaratory and injunctive relief, costs of this action and attorneys fees. This case is pending as of November 2026.\n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "Common Law: Torts",
+    "lastUpdated": "November 8, 2026",
+    "media": [
+      "https://www.stlmag.com/news/lawsuit-jim-onder-sex-harassment-ferguson-data-center/"
+    ]
+  },
+  {
     "id": "underwood-family-farm-llc-v-prince-william-cnty-no-cl2400584",
     "shortName": "Underwood Family Farm, LLC v. Prince William Cnty.",
     "citation": "Underwood Family Farm, LLC v. Prince William Cnty., No. CL24005849-00 (Prince William Cnty. Cir. Ct. Jan. 20, 2026) (denying motion for reconsideration of summary judgment granted to defendant).",
@@ -6383,6 +6853,29 @@
       "https://www.cbc.ca/news/canada/edmonton/sturgeon-lake-cree-nation-alberta-wonder-valley-9.7228016",
       "https://www.cbc.ca/news/canada/edmonton/o-leary-digital-judicial-review-sturgeon-lake-cree-nation-9.7307885"
     ]
+  },
+  {
+    "id": "roness-v-t-mobile-usa-inc-394-f-supp-3d-1324-w-d-wash-2019",
+    "shortName": "Roness v. T-Mobile USA",
+    "citation": "Roness v. T-Mobile USA, Inc., 394 F. Supp. 3d 1324 (W.D. Wash. 2019)",
+    "docket": "2:18-cv-01030",
+    "filingDisplay": "July 13, 2018",
+    "yearFiled": "2018",
+    "location": "Washington",
+    "forum": "United States District Court for the Western District of Washington",
+    "forumType": "Federal",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Corporate Tax, Securities, Employment and Lobbying: Employment",
+    "docketLink": "https://www.bloomberglaw.com/document/2048115989291778",
+    "status": "Closed",
+    "summary": "The plaintiff, a data center technician, sued his data center employer, alleging violations of state and federal employment laws. Plaintiff claimed that his sleep apnea made him unable to meet his on-call responsibilities, and request accomodation. Defendant, which operates data centers in Washington, decided that it could not reasonably accomodate plaintiff's condition, and placed him on unpaid leave. The court held that on-call rotations were an essential responsibility, and that the plaintiff was not entitled to accomodation. \n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "",
+    "lastUpdated": "July 29, 2019",
+    "media": []
   },
   {
     "id": "in-re-northwestern-energy-s-provision-of-electricity-supply-",
@@ -6988,6 +7481,29 @@
     ]
   },
   {
+    "id": "or-env-t-council-v-irs-836-f-supp-3d-1-d-d-c-2026",
+    "shortName": "Oregon Environmental Council v. IRS",
+    "citation": "Or. Env't Council v. IRS, 836 F. Supp. 3d 1 (D.D.C. 2026)",
+    "docket": "No. 1:25-cv-04400",
+    "filingDisplay": "December 18, 2025",
+    "yearFiled": "2025",
+    "location": "D.C.",
+    "forum": "\"United States District Court, District of Columbia\"",
+    "forumType": "Federal",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "No",
+    "corporateEntities": "",
+    "category": "Corporate: Tax",
+    "docketLink": "https://www.bloomberglaw.com/document/2048147282796802",
+    "status": "Closed",
+    "summary": "Organization representing energy consumers in Oregon and environmental advocacy group brought action against InternalRevenue Service challenging as arbitrary and capricious under Administrative Procedure Act the IRS notice that eliminated 5% safe harbor method for establishing “beginning of construction,” as eligibility criteria for wind and large solar projects to receive expiring clean electricity tax credits. The parties filed a cross motion for summary judgment. The District Court held that the consumer and environmental organizations had associational standing, granted the plaintiff's motion for summary judgment, vacated the IRS's notice, and remanded for further administrative actions.\n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "Other",
+    "lastUpdated": "June 6, 2026",
+    "media": []
+  },
+  {
     "id": "concerned-citizens-of-spartanburg-cnty-v-valara-holdings-llc",
     "shortName": "Concerned Citizens of Spartanburg Cnty. v. Valara Holdings, LLC",
     "citation": "Concerned Citizens of Spartanburg Cnty. v. Valara Holdings, LLC, No. 2026-CP-42-03416 (S.C. Ct. Com. Pl. dismissed Oct. 6, 2026), appeal docketed (S.C. Ct. App. filed Oct. 20, 2026).",
@@ -7386,6 +7902,36 @@
     "media": [
       "https://www.datacenterdynamics.com/en/news/tract-scores-courtroom-victory-over-switch-as-nevada-data-center-dispute-trial-inches-closer/",
       "https://www.tract.com/news/tract-achieves-major-court-victory-against-switch-in-reno-data-center-land-dispute/"
+    ]
+  },
+  {
+    "id": "innovation-411-fee-owner-llc-v-upper-merion-twp-bd-of-superv",
+    "shortName": "Innovation 411 Fee Owner LLC v. Upper Merion Twp. Bd. of Supervisors",
+    "citation": "Innovation 411 Fee Owner LLC v. Upper Merion Twp. Bd. of Supervisors, No. 2026-21467 (Pa. Ct. Com. Pl. Montgomery Cnty. filed Sep. 16, 2026).",
+    "docket": "2026-21467",
+    "filingDisplay": "September 16, 2026",
+    "yearFiled": "2026",
+    "location": "Pennsylvania",
+    "forum": "Montgomery County Court of Common Pleas",
+    "forumType": "State",
+    "caseLevel": "Trial",
+    "developerPlaintiff": "Yes",
+    "corporateEntities": "",
+    "category": "Land Use Planning and Zoning: Substantive Planning Decisions",
+    "docketLink": "https://courtsapp.montcopa.org/psi/v/detail/Case/201485806",
+    "status": "Open",
+    "summary": "On September 16, 2026, Innovation 411 Fee Owner LLC, a developer affiliated with MLP Ventures, filed a land-use appeal in the Court of Common Pleas of Montgomery County, Pennsylvania, against the Upper Merion Township Board of Supervisors. The appeal was one of five challenging the Board's August 13, 2026 denials of preliminary land development plans for a proposed data center campus in King of Prussia. In the September appeals, the developer argued that the proposed data center use was permitted under the Township's zoning code because Township officials had previously treated data centers as warehouses. The developer sought relief across those appeals, including reversal of the Board's decisions, preliminary approval of the plans, and appointment of an independent referee to conduct an evidentiary hearing. The case remains open, and no final decision appears in the available docket.\n",
+    "documents": [],
+    "lawType": "Statutory",
+    "secondaryCategory": "",
+    "lastUpdated": "November 8, 2026",
+    "media": [
+      "https://vista.today/2026/10/king-of-prussia-data-center-appeals-withdrawn-lawsuit/",
+      "https://www.inquirer.com/news/pennsylvania/data-centers-upper-merion-township-lawsuit-20260918.html",
+      "https://www.suburbanrealtorsalliance.com/news/2026/09/25/montgomery-county/developer-sues-upper-merion-over-denial-of-data-centers/",
+      "https://www.inquirer.com/news/pennsylvania/kop-west-conshohocken-data-center-developer-brian-oneill-20261023.html",
+      "https://www.phillymag.com/news/2026/11/04/data-centers-philadelphia-suburbs/",
+      "https://www.inquirer.com/real-estate/commercial/kop-data-center-developer-lawsuit-20260813.html"
     ]
   },
   {
